@@ -1,0 +1,2967 @@
+----------
+LABELS
+---------
+1,Coef. Aglom: 0.33\nMenor Caminho Medio: 84.27\nBetweness: 7074.000000\nCloseness: 0.0119\nRio Jaguari
+2,Coef. Aglom: 0.33\nMenor Caminho Medio: 85.26\nBetweness: 4724.000000\nCloseness: 0.0117\nRio Jaguari
+3,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.27\nBetweness: 0.000000\nCloseness: 0.0119\nsem nome
+4,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.32\nBetweness: 0.000000\nCloseness: 0.0117\nsem nome
+5,Coef. Aglom: 0.33\nMenor Caminho Medio: 84.32\nBetweness: 2366.000000\nCloseness: 0.0119\nRio Parate
+6,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.32\nBetweness: 0.000000\nCloseness: 0.0119\nsem nome
+7,Coef. Aglom: 1.00\nMenor Caminho Medio: 87.25\nBetweness: 0.000000\nCloseness: 0.0115\nsem nome
+8,Coef. Aglom: 1.00\nMenor Caminho Medio: 86.26\nBetweness: 0.000000\nCloseness: 0.0116\nsem nome
+9,Coef. Aglom: 0.33\nMenor Caminho Medio: 86.26\nBetweness: 2366.000000\nCloseness: 0.0116\nRio Jaguari
+10,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.32\nBetweness: 0.000000\nCloseness: 0.0117\nRio Parate
+11,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.26\nBetweness: 0.000000\nCloseness: 0.0117\nsem nome
+12,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.16\nBetweness: 27864.000000\nCloseness: 0.0199\nRio Paraibuna
+13,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.10\nBetweness: 2366.000000\nCloseness: 0.0133\nsem nome
+14,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.97\nBetweness: 2366.000000\nCloseness: 0.0176\nsem nome
+15,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.96\nBetweness: 9416.000000\nCloseness: 0.0176\nRio Paraibuna
+16,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.11\nBetweness: 7074.000000\nCloseness: 0.0135\nRio Pomba
+17,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.01\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+18,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.03\nBetweness: 18704.000000\nCloseness: 0.0185\nRio Paraibuna
+19,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.10\nBetweness: 2366.000000\nCloseness: 0.0133\nRio Pomba
+20,Coef. Aglom: 0.33\nMenor Caminho Medio: 70.53\nBetweness: 2366.000000\nCloseness: 0.0142\nsem nome
+21,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.96\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+22,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.12\nBetweness: 25586.000000\nCloseness: 0.0196\nRio Paraibuna
+23,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.10\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+24,Coef. Aglom: 1.00\nMenor Caminho Medio: 73.14\nBetweness: 0.000000\nCloseness: 0.0137\nsem nome
+25,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.24\nBetweness: 73854.000000\nCloseness: 0.0203\nRio Paraibuna
+26,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.35\nBetweness: 75956.000000\nCloseness: 0.0207\nRio Paraibuna
+27,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.10\nBetweness: 2366.000000\nCloseness: 0.0133\nsem nome
+28,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.10\nBetweness: 2366.000000\nCloseness: 0.0133\nsem nome
+29,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.15\nBetweness: 45800.000000\nCloseness: 0.0199\nRio do Peixe
+30,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.00\nBetweness: 16394.000000\nCloseness: 0.0182\nRio Paraibuna
+31,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.51\nBetweness: 4724.000000\nCloseness: 0.0134\nRio Piau
+32,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.22\nBetweness: 0.000000\nCloseness: 0.0138\nsem nome
+33,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.04\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+34,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.07\nBetweness: 0.000000\nCloseness: 0.0188\nsem nome
+35,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.10\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+36,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.98\nBetweness: 14076.000000\nCloseness: 0.0179\nRio Paraibuna
+37,Coef. Aglom: 1.00\nMenor Caminho Medio: 107.84\nBetweness: 0.000000\nCloseness: 0.0093\nsem nome
+38,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.09\nBetweness: 23300.000000\nCloseness: 0.0192\nRio Paraibuna
+39,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.99\nBetweness: 0.000000\nCloseness: 0.0179\nsem nome
+40,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.06\nBetweness: 21006.000000\nCloseness: 0.0188\nRio Paraibuna
+41,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.16\nBetweness: 317750.000000\nCloseness: 0.0221\nRio Paraba do Sul
+42,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.35\nBetweness: 0.000000\nCloseness: 0.0203\nsem nome
+43,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.44\nBetweness: 0.000000\nCloseness: 0.0206\nsem nome
+44,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.48\nBetweness: 61074.000000\nCloseness: 0.0211\nRio Preto
+45,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.74\nBetweness: 0.000000\nCloseness: 0.0214\nsem nome
+46,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.85\nBetweness: 319194.000000\nCloseness: 0.0223\nRio Paraba do Sul
+47,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.20\nBetweness: 2366.000000\nCloseness: 0.0221\nsem nome
+48,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.50\nBetweness: 2366.000000\nCloseness: 0.0220\nsem nome
+49,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.39\nBetweness: 58916.000000\nCloseness: 0.0207\nRio Preto
+50,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.63\nBetweness: 133434.000000\nCloseness: 0.0214\nRio Paraibuna
+51,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.55\nBetweness: 320606.000000\nCloseness: 0.0224\nRio Paraba do Sul
+52,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.47\nBetweness: 78050.000000\nCloseness: 0.0211\nRio Paraibuna
+53,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.50\nBetweness: 0.000000\nCloseness: 0.0215\nsem nome
+54,Coef. Aglom: 1.00\nMenor Caminho Medio: 44.91\nBetweness: 0.000000\nCloseness: 0.0223\nsem nome
+55,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.31\nBetweness: 56750.000000\nCloseness: 0.0203\nRio Preto
+56,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.30\nBetweness: 11750.000000\nCloseness: 0.0122\nRio Jaguari
+57,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.29\nBetweness: 0.000000\nCloseness: 0.0119\nsem nome
+58,Coef. Aglom: 0.33\nMenor Caminho Medio: 81.31\nBetweness: 14076.000000\nCloseness: 0.0123\nRio Jaguari
+59,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.29\nBetweness: 0.000000\nCloseness: 0.0120\nsem nome
+60,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.28\nBetweness: 9416.000000\nCloseness: 0.0120\nRio Jaguari
+61,Coef. Aglom: 1.00\nMenor Caminho Medio: 81.35\nBetweness: 0.000000\nCloseness: 0.0123\nsem nome
+62,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.14\nBetweness: 7074.000000\nCloseness: 0.0164\nsem nome
+63,Coef. Aglom: 1.00\nMenor Caminho Medio: 82.30\nBetweness: 0.000000\nCloseness: 0.0121\nsem nome
+64,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.32\nBetweness: 4724.000000\nCloseness: 0.0120\nRio Parate
+65,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.14\nBetweness: 0.000000\nCloseness: 0.0212\nsem nome
+66,Coef. Aglom: 0.33\nMenor Caminho Medio: 73.52\nBetweness: 7074.000000\nCloseness: 0.0136\nRio Novo
+67,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.10\nBetweness: 0.000000\nCloseness: 0.0192\nsem nome
+68,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.85\nBetweness: 135296.000000\nCloseness: 0.0218\nRio Paraibuna
+69,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.30\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+70,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.30\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+71,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.52\nBetweness: 0.000000\nCloseness: 0.0220\nsem nome
+72,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.39\nBetweness: 2366.000000\nCloseness: 0.0202\nsem nome
+73,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.41\nBetweness: 0.000000\nCloseness: 0.0211\nsem nome
+74,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.39\nBetweness: 0.000000\nCloseness: 0.0202\nsem nome
+75,Coef. Aglom: 0.33\nMenor Caminho Medio: 73.12\nBetweness: 16394.000000\nCloseness: 0.0137\nRio Pomba
+76,Coef. Aglom: 1.00\nMenor Caminho Medio: 73.52\nBetweness: 0.000000\nCloseness: 0.0136\nsem nome
+77,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.14\nBetweness: 0.000000\nCloseness: 0.0196\nsem nome
+78,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.10\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+79,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.20\nBetweness: 0.000000\nCloseness: 0.0216\nsem nome
+80,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.30\nBetweness: 4724.000000\nCloseness: 0.0122\nRibeiro das Cobras
+81,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.30\nBetweness: 7074.000000\nCloseness: 0.0122\nRio do Peixe
+82,Coef. Aglom: 0.33\nMenor Caminho Medio: 81.51\nBetweness: 157016.000000\nCloseness: 0.0123\nRio Paraba do Sul
+83,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.35\nBetweness: 30134.000000\nCloseness: 0.0124\nRio Jaguari
+84,Coef. Aglom: 1.00\nMenor Caminho Medio: 81.64\nBetweness: 0.000000\nCloseness: 0.0122\nsem nome
+85,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.88\nBetweness: 0.000000\nCloseness: 0.0119\nsem nome
+86,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.36\nBetweness: 11750.000000\nCloseness: 0.0124\nRio Parate
+87,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.29\nBetweness: 4724.000000\nCloseness: 0.0120\nRio do Peixe
+88,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.77\nBetweness: 158774.000000\nCloseness: 0.0124\nRio Paraba do Sul
+89,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.76\nBetweness: 151694.000000\nCloseness: 0.0119\nRio Paraba do Sul
+90,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.13\nBetweness: 0.000000\nCloseness: 0.0120\nsem nome
+91,Coef. Aglom: 0.33\nMenor Caminho Medio: 81.31\nBetweness: 14076.000000\nCloseness: 0.0123\nRio do Peixe
+92,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.28\nBetweness: 0.000000\nCloseness: 0.0117\nsem nome
+93,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.29\nBetweness: 0.000000\nCloseness: 0.0119\nsem nome
+94,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.26\nBetweness: 155250.000000\nCloseness: 0.0122\nRio Paraba do Sul
+95,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.01\nBetweness: 153476.000000\nCloseness: 0.0120\nRio Paraba do Sul
+96,Coef. Aglom: 1.00\nMenor Caminho Medio: 80.90\nBetweness: 0.000000\nCloseness: 0.0124\nsem nome
+97,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.30\nBetweness: 2366.000000\nCloseness: 0.0120\nsem nome
+98,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.29\nBetweness: 0.000000\nCloseness: 0.0119\nsem nome
+99,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.30\nBetweness: 0.000000\nCloseness: 0.0120\nRibeiro das Cobras
+100,Coef. Aglom: 0.33\nMenor Caminho Medio: 81.35\nBetweness: 9416.000000\nCloseness: 0.0123\nRio Parate
+101,Coef. Aglom: 0.33\nMenor Caminho Medio: 84.52\nBetweness: 149904.000000\nCloseness: 0.0118\nRio Paraba do Sul
+102,Coef. Aglom: 1.00\nMenor Caminho Medio: 82.34\nBetweness: 0.000000\nCloseness: 0.0121\nsem nome
+103,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.42\nBetweness: 237824.000000\nCloseness: 0.0148\nRio Paraba do Sul
+104,Coef. Aglom: 1.00\nMenor Caminho Medio: 86.92\nBetweness: 0.000000\nCloseness: 0.0115\nsem nome
+105,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.33\nBetweness: 0.000000\nCloseness: 0.0120\nsem nome
+106,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.39\nBetweness: 0.000000\nCloseness: 0.0117\nsem nome
+107,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.33\nBetweness: 7074.000000\nCloseness: 0.0121\nRio Parate
+108,Coef. Aglom: 0.33\nMenor Caminho Medio: 86.04\nBetweness: 146300.000000\nCloseness: 0.0116\nRio Paraba do Sul
+109,Coef. Aglom: 0.33\nMenor Caminho Medio: 86.80\nBetweness: 144486.000000\nCloseness: 0.0115\nRio Paraba do Sul
+110,Coef. Aglom: 0.33\nMenor Caminho Medio: 85.27\nBetweness: 148106.000000\nCloseness: 0.0117\nRio Paraba do Sul
+111,Coef. Aglom: 1.00\nMenor Caminho Medio: 86.15\nBetweness: 0.000000\nCloseness: 0.0116\nsem nome
+112,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.14\nBetweness: 232376.000000\nCloseness: 0.0145\nRio Paraba do Sul
+113,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.34\nBetweness: 0.000000\nCloseness: 0.0142\nsem nome
+114,Coef. Aglom: 0.33\nMenor Caminho Medio: 64.86\nBetweness: 2366.000000\nCloseness: 0.0154\nsem nome
+115,Coef. Aglom: 0.33\nMenor Caminho Medio: 103.93\nBetweness: 16394.000000\nCloseness: 0.0096\nRio Paraitinga
+116,Coef. Aglom: 1.00\nMenor Caminho Medio: 109.86\nBetweness: 0.000000\nCloseness: 0.0091\nsem nome
+117,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.66\nBetweness: 0.000000\nCloseness: 0.0160\nsem nome
+118,Coef. Aglom: 1.00\nMenor Caminho Medio: 65.41\nBetweness: 0.000000\nCloseness: 0.0153\nsem nome
+119,Coef. Aglom: 0.33\nMenor Caminho Medio: 72.81\nBetweness: 213786.000000\nCloseness: 0.0137\nRio Paraba do Sul
+120,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.22\nBetweness: 0.000000\nCloseness: 0.0172\nsem nome
+121,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.73\nBetweness: 222534.000000\nCloseness: 0.0143\nRio Paraba do Sul
+122,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.63\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+123,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.48\nBetweness: 272376.000000\nCloseness: 0.0174\nRio Paraba do Sul
+124,Coef. Aglom: 0.33\nMenor Caminho Medio: 104.91\nBetweness: 2366.000000\nCloseness: 0.0095\nsem nome
+125,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.25\nBetweness: 0.000000\nCloseness: 0.0158\nsem nome
+126,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.74\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+127,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.14\nBetweness: 2366.000000\nCloseness: 0.0161\nsem nome
+128,Coef. Aglom: 1.00\nMenor Caminho Medio: 109.86\nBetweness: 0.000000\nCloseness: 0.0091\nRio Paraitinga
+129,Coef. Aglom: 1.00\nMenor Caminho Medio: 71.53\nBetweness: 0.000000\nCloseness: 0.0140\nsem nome
+130,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.43\nBetweness: 270116.000000\nCloseness: 0.0171\nRio Paraba do Sul
+131,Coef. Aglom: 0.33\nMenor Caminho Medio: 104.89\nBetweness: 18704.000000\nCloseness: 0.0095\nRio Jacu
+132,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.64\nBetweness: 0.000000\nCloseness: 0.0162\nsem nome
+133,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.29\nBetweness: 0.000000\nCloseness: 0.0120\nsem nome
+134,Coef. Aglom: 0.33\nMenor Caminho Medio: 68.56\nBetweness: 235116.000000\nCloseness: 0.0146\nRio Paraba do Sul
+135,Coef. Aglom: 0.33\nMenor Caminho Medio: 106.88\nBetweness: 7074.000000\nCloseness: 0.0094\nRio Paraitinga
+136,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.17\nBetweness: 0.000000\nCloseness: 0.0169\nsem nome
+137,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.91\nBetweness: 257114.000000\nCloseness: 0.0164\nRio Paraba do Sul
+138,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.99\nBetweness: 236474.000000\nCloseness: 0.0147\nRio Paraba do Sul
+139,Coef. Aglom: 0.33\nMenor Caminho Medio: 78.76\nBetweness: 4724.000000\nCloseness: 0.0127\nRio Buquira ou Ferro
+140,Coef. Aglom: 1.00\nMenor Caminho Medio: 80.76\nBetweness: 0.000000\nCloseness: 0.0124\nRio Buquira ou Ferro
+141,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.14\nBetweness: 0.000000\nCloseness: 0.0164\nsem nome
+142,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.78\nBetweness: 0.000000\nCloseness: 0.0157\nsem nome
+143,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.64\nBetweness: 2366.000000\nCloseness: 0.0165\nsem nome
+144,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.40\nBetweness: 261954.000000\nCloseness: 0.0166\nRio Paraba do Sul
+145,Coef. Aglom: 1.00\nMenor Caminho Medio: 75.86\nBetweness: 0.000000\nCloseness: 0.0132\nsem nome
+146,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.14\nBetweness: 0.000000\nCloseness: 0.0158\nsem nome
+147,Coef. Aglom: 0.33\nMenor Caminho Medio: 71.88\nBetweness: 9416.000000\nCloseness: 0.0139\nRio Una ou das Almas
+148,Coef. Aglom: 0.33\nMenor Caminho Medio: 70.90\nBetweness: 11750.000000\nCloseness: 0.0141\nRio Una ou das Almas
+149,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.89\nBetweness: 0.000000\nCloseness: 0.0134\nsem nome
+150,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.65\nBetweness: 0.000000\nCloseness: 0.0165\nsem nome
+151,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.74\nBetweness: 243144.000000\nCloseness: 0.0152\nRio Paraba do Sul
+152,Coef. Aglom: 0.33\nMenor Caminho Medio: 79.76\nBetweness: 2366.000000\nCloseness: 0.0125\nRio Buquira ou Ferro
+153,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.28\nBetweness: 0.000000\nCloseness: 0.0117\nRio do Peixe
+154,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.14\nBetweness: 2366.000000\nCloseness: 0.0161\nsem nome
+155,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.65\nBetweness: 0.000000\nCloseness: 0.0165\nsem nome
+156,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.92\nBetweness: 268974.000000\nCloseness: 0.0170\nRio Paraba do Sul
+157,Coef. Aglom: 1.00\nMenor Caminho Medio: 108.84\nBetweness: 0.000000\nCloseness: 0.0092\nRio Jacu
+158,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.20\nBetweness: 0.000000\nCloseness: 0.0147\nsem nome
+159,Coef. Aglom: 0.33\nMenor Caminho Medio: 77.09\nBetweness: 2366.000000\nCloseness: 0.0130\nsem nome
+160,Coef. Aglom: 1.00\nMenor Caminho Medio: 65.86\nBetweness: 0.000000\nCloseness: 0.0152\nsem nome
+161,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.63\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+162,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.77\nBetweness: 0.000000\nCloseness: 0.0145\nsem nome
+163,Coef. Aglom: 1.00\nMenor Caminho Medio: 108.87\nBetweness: 0.000000\nCloseness: 0.0092\nsem nome
+164,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.48\nBetweness: 252146.000000\nCloseness: 0.0160\nRio Paraba do Sul
+165,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.14\nBetweness: 0.000000\nCloseness: 0.0158\nsem nome
+166,Coef. Aglom: 1.00\nMenor Caminho Medio: 107.87\nBetweness: 0.000000\nCloseness: 0.0093\nsem nome
+167,Coef. Aglom: 1.00\nMenor Caminho Medio: 79.76\nBetweness: 0.000000\nCloseness: 0.0125\nsem nome
+168,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.96\nBetweness: 271250.000000\nCloseness: 0.0173\nRio Paraba do Sul
+169,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.15\nBetweness: 2366.000000\nCloseness: 0.0166\nsem nome
+170,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.34\nBetweness: 0.000000\nCloseness: 0.0142\nsem nome
+171,Coef. Aglom: 0.33\nMenor Caminho Medio: 70.95\nBetweness: 218196.000000\nCloseness: 0.0141\nRio Paraba do Sul
+172,Coef. Aglom: 0.33\nMenor Caminho Medio: 64.09\nBetweness: 248336.000000\nCloseness: 0.0156\nRio Paraba do Sul
+173,Coef. Aglom: 1.00\nMenor Caminho Medio: 71.15\nBetweness: 0.000000\nCloseness: 0.0141\nsem nome
+174,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.27\nBetweness: 0.000000\nCloseness: 0.0175\nsem nome
+175,Coef. Aglom: 0.33\nMenor Caminho Medio: 104.90\nBetweness: 2366.000000\nCloseness: 0.0095\nsem nome
+176,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.66\nBetweness: 2366.000000\nCloseness: 0.0168\nsem nome
+177,Coef. Aglom: 0.33\nMenor Caminho Medio: 106.85\nBetweness: 4724.000000\nCloseness: 0.0094\nRio Jacu
+178,Coef. Aglom: 1.00\nMenor Caminho Medio: 71.76\nBetweness: 0.000000\nCloseness: 0.0139\nsem nome
+179,Coef. Aglom: 0.33\nMenor Caminho Medio: 72.19\nBetweness: 215264.000000\nCloseness: 0.0139\nRio Paraba do Sul
+180,Coef. Aglom: 1.00\nMenor Caminho Medio: 107.85\nBetweness: 0.000000\nCloseness: 0.0093\nsem nome
+181,Coef. Aglom: 1.00\nMenor Caminho Medio: 106.88\nBetweness: 0.000000\nCloseness: 0.0094\nsem nome
+182,Coef. Aglom: 0.33\nMenor Caminho Medio: 107.87\nBetweness: 4724.000000\nCloseness: 0.0093\nRio Paraitinga
+183,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.02\nBetweness: 250884.000000\nCloseness: 0.0159\nRio Paraba do Sul
+184,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.35\nBetweness: 2366.000000\nCloseness: 0.0144\nsem nome
+185,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.14\nBetweness: 0.000000\nCloseness: 0.0158\nsem nome
+186,Coef. Aglom: 0.33\nMenor Caminho Medio: 105.86\nBetweness: 16394.000000\nCloseness: 0.0094\nRio Jacu
+187,Coef. Aglom: 1.00\nMenor Caminho Medio: 105.90\nBetweness: 0.000000\nCloseness: 0.0094\nsem nome
+188,Coef. Aglom: 0.33\nMenor Caminho Medio: 84.29\nBetweness: 2366.000000\nCloseness: 0.0119\nRio do Peixe
+189,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.69\nBetweness: 0.000000\nCloseness: 0.0170\nsem nome
+190,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.18\nBetweness: 244454.000000\nCloseness: 0.0153\nRio Paraba do Sul
+191,Coef. Aglom: 0.33\nMenor Caminho Medio: 107.84\nBetweness: 2366.000000\nCloseness: 0.0093\nRio Jacu
+192,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.95\nBetweness: 253400.000000\nCloseness: 0.0161\nRio Paraba do Sul
+193,Coef. Aglom: 1.00\nMenor Caminho Medio: 108.83\nBetweness: 0.000000\nCloseness: 0.0092\nsem nome
+194,Coef. Aglom: 1.00\nMenor Caminho Medio: 105.88\nBetweness: 0.000000\nCloseness: 0.0094\nsem nome
+195,Coef. Aglom: 0.33\nMenor Caminho Medio: 105.89\nBetweness: 9416.000000\nCloseness: 0.0094\nRio Paraitinga
+196,Coef. Aglom: 1.00\nMenor Caminho Medio: 105.91\nBetweness: 0.000000\nCloseness: 0.0094\nsem nome
+197,Coef. Aglom: 1.00\nMenor Caminho Medio: 66.51\nBetweness: 0.000000\nCloseness: 0.0150\nsem nome
+198,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.92\nBetweness: 14076.000000\nCloseness: 0.0143\nRio Una ou das Almas
+199,Coef. Aglom: 1.00\nMenor Caminho Medio: 80.76\nBetweness: 0.000000\nCloseness: 0.0124\nsem nome
+200,Coef. Aglom: 0.33\nMenor Caminho Medio: 77.82\nBetweness: 48006.000000\nCloseness: 0.0128\nRio Muria
+201,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.19\nBetweness: 0.000000\nCloseness: 0.0161\nsem nome
+202,Coef. Aglom: 1.00\nMenor Caminho Medio: 65.96\nBetweness: 0.000000\nCloseness: 0.0152\nsem nome
+203,Coef. Aglom: 1.00\nMenor Caminho Medio: 105.91\nBetweness: 0.000000\nCloseness: 0.0094\nsem nome
+204,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.55\nBetweness: 249614.000000\nCloseness: 0.0157\nRio Paraba do Sul
+205,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.72\nBetweness: 0.000000\nCloseness: 0.0159\nsem nome
+206,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.54\nBetweness: 274604.000000\nCloseness: 0.0177\nRio Paraba do Sul
+207,Coef. Aglom: 0.33\nMenor Caminho Medio: 108.86\nBetweness: 2366.000000\nCloseness: 0.0092\nRio Paraitinga
+208,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.64\nBetweness: 0.000000\nCloseness: 0.0162\nsem nome
+209,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.40\nBetweness: 266666.000000\nCloseness: 0.0168\nRio Paraba do Sul
+210,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.14\nBetweness: 0.000000\nCloseness: 0.0164\nsem nome
+211,Coef. Aglom: 0.33\nMenor Caminho Medio: 103.92\nBetweness: 23300.000000\nCloseness: 0.0096\nRio Jacu
+212,Coef. Aglom: 0.33\nMenor Caminho Medio: 106.85\nBetweness: 9416.000000\nCloseness: 0.0094\nsem nome
+213,Coef. Aglom: 1.00\nMenor Caminho Medio: 67.07\nBetweness: 0.000000\nCloseness: 0.0149\nsem nome
+214,Coef. Aglom: 0.33\nMenor Caminho Medio: 64.63\nBetweness: 245756.000000\nCloseness: 0.0155\nRio Paraba do Sul
+215,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.91\nBetweness: 0.000000\nCloseness: 0.0141\nsem nome
+216,Coef. Aglom: 1.00\nMenor Caminho Medio: 65.86\nBetweness: 0.000000\nCloseness: 0.0152\nsem nome
+217,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.14\nBetweness: 0.000000\nCloseness: 0.0158\nsem nome
+218,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.43\nBetweness: 254646.000000\nCloseness: 0.0163\nRio Paraba do Sul
+219,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.66\nBetweness: 0.000000\nCloseness: 0.0160\nsem nome
+220,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.75\nBetweness: 0.000000\nCloseness: 0.0162\nsem nome
+221,Coef. Aglom: 0.33\nMenor Caminho Medio: 71.57\nBetweness: 216734.000000\nCloseness: 0.0140\nRio Paraba do Sul
+222,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.32\nBetweness: 0.000000\nCloseness: 0.0155\nRio Piagui
+223,Coef. Aglom: 0.33\nMenor Caminho Medio: 66.85\nBetweness: 240500.000000\nCloseness: 0.0150\nRio Paraba do Sul
+224,Coef. Aglom: 1.00\nMenor Caminho Medio: 108.84\nBetweness: 0.000000\nCloseness: 0.0092\nsem nome
+225,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.90\nBetweness: 264326.000000\nCloseness: 0.0167\nRio Paraba do Sul
+226,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.25\nBetweness: 0.000000\nCloseness: 0.0135\nsem nome
+227,Coef. Aglom: 1.00\nMenor Caminho Medio: 71.53\nBetweness: 0.000000\nCloseness: 0.0140\nsem nome
+228,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.66\nBetweness: 2366.000000\nCloseness: 0.0162\nsem nome
+229,Coef. Aglom: 0.33\nMenor Caminho Medio: 107.83\nBetweness: 7074.000000\nCloseness: 0.0093\nsem nome
+230,Coef. Aglom: 0.33\nMenor Caminho Medio: 70.34\nBetweness: 219650.000000\nCloseness: 0.0142\nRio Paraba do Sul
+231,Coef. Aglom: 0.33\nMenor Caminho Medio: 66.29\nBetweness: 241826.000000\nCloseness: 0.0151\nRio Paraba do Sul
+232,Coef. Aglom: 0.33\nMenor Caminho Medio: 104.91\nBetweness: 11750.000000\nCloseness: 0.0095\nRio Paraitinga
+233,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.01\nBetweness: 273494.000000\nCloseness: 0.0175\nRio Paraba do Sul
+234,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.63\nBetweness: 2366.000000\nCloseness: 0.0148\nsem nome
+235,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.75\nBetweness: 2366.000000\nCloseness: 0.0165\nRio do Peixe
+236,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.77\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+237,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.75\nBetweness: 0.000000\nCloseness: 0.0165\nsem nome
+238,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.75\nBetweness: 0.000000\nCloseness: 0.0162\nRio do Peixe
+239,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.97\nBetweness: 0.000000\nCloseness: 0.0200\nsem nome
+240,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.08\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+241,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.65\nBetweness: 289304.000000\nCloseness: 0.0194\nRio Paraba do Sul
+242,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.62\nBetweness: 2366.000000\nCloseness: 0.0183\nsem nome
+243,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.81\nBetweness: 0.000000\nCloseness: 0.0176\nsem nome
+244,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.65\nBetweness: 3546.000000\nCloseness: 0.0162\nsem nome
+245,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.52\nBetweness: 0.000000\nCloseness: 0.0187\nsem nome
+246,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.44\nBetweness: 297000.000000\nCloseness: 0.0198\nRio Paraba do Sul
+247,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.72\nBetweness: 21006.000000\nCloseness: 0.0170\nRio Preto
+248,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.69\nBetweness: 18704.000000\nCloseness: 0.0168\nRio Preto
+249,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.23\nBetweness: 293216.000000\nCloseness: 0.0195\nRio Paraba do Sul
+250,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.28\nBetweness: 300656.000000\nCloseness: 0.0203\nRio Paraba do Sul
+251,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.66\nBetweness: 16394.000000\nCloseness: 0.0165\nRio Preto
+252,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.80\nBetweness: 281096.000000\nCloseness: 0.0186\nRio Paraba do Sul
+253,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.61\nBetweness: 276800.000000\nCloseness: 0.0180\nRio Paraba do Sul
+254,Coef. Aglom: 1.00\nMenor Caminho Medio: 66.61\nBetweness: 0.000000\nCloseness: 0.0150\nRio Preto
+255,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.49\nBetweness: 287300.000000\nCloseness: 0.0191\nRio Paraba do Sul
+256,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.61\nBetweness: 2366.000000\nCloseness: 0.0152\nRio Preto
+257,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.97\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+258,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.52\nBetweness: 0.000000\nCloseness: 0.0183\nsem nome
+259,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.63\nBetweness: 8246.000000\nCloseness: 0.0160\nRio Preto
+260,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.09\nBetweness: 4724.000000\nCloseness: 0.0200\nRio Pira
+261,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.25\nBetweness: 280034.000000\nCloseness: 0.0184\nRio Paraba do Sul
+262,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.64\nBetweness: 0.000000\nCloseness: 0.0160\nsem nome
+263,Coef. Aglom: 0.33\nMenor Caminho Medio: 64.61\nBetweness: 3546.000000\nCloseness: 0.0155\nRio Preto
+264,Coef. Aglom: NaN\nMenor Caminho Medio: 63.65\nBetweness: 0.000000\nCloseness: 0.0157\nsem nome
+265,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.52\nBetweness: 2366.000000\nCloseness: 0.0190\nsem nome
+266,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.73\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+267,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.63\nBetweness: 0.000000\nCloseness: 0.0157\nsem nome
+268,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.92\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+269,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.34\nBetweness: 0.000000\nCloseness: 0.0177\nsem nome
+270,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.62\nBetweness: 2366.000000\nCloseness: 0.0183\nsem nome
+271,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.62\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+272,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.65\nBetweness: 0.000000\nCloseness: 0.0160\nsem nome
+273,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.88\nBetweness: 0.000000\nCloseness: 0.0179\nsem nome
+274,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.62\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+275,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.36\nBetweness: 282150.000000\nCloseness: 0.0187\nRio Paraba do Sul
+276,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.93\nBetweness: 7074.000000\nCloseness: 0.0193\nsem nome
+277,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.92\nBetweness: 2366.000000\nCloseness: 0.0189\nsem nome
+278,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.16\nBetweness: 277886.000000\nCloseness: 0.0181\nRio Paraba do Sul
+279,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.92\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+280,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.63\nBetweness: 7074.000000\nCloseness: 0.0186\nsem nome
+281,Coef. Aglom: 1.00\nMenor Caminho Medio: 66.61\nBetweness: 0.000000\nCloseness: 0.0150\nsem nome
+282,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.92\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+283,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.09\nBetweness: 0.000000\nCloseness: 0.0196\nsem nome
+284,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.62\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+285,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.70\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+286,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.62\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+287,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.68\nBetweness: 0.000000\nCloseness: 0.0165\nsem nome
+288,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.08\nBetweness: 0.000000\nCloseness: 0.0192\nRio do Brao
+289,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.92\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+290,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.53\nBetweness: 4724.000000\nCloseness: 0.0194\nsem nome
+291,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.65\nBetweness: 1184.000000\nCloseness: 0.0160\nsem nome
+292,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.64\nBetweness: 10584.000000\nCloseness: 0.0162\nRio Preto
+293,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.62\nBetweness: 0.000000\nCloseness: 0.0155\nsem nome
+294,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.35\nBetweness: 0.000000\nCloseness: 0.0195\nsem nome
+295,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.73\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+296,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.09\nBetweness: 2366.000000\nCloseness: 0.0196\nRio Pira
+297,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.08\nBetweness: 0.000000\nCloseness: 0.0192\nsem nome
+298,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.52\nBetweness: 0.000000\nCloseness: 0.0187\nsem nome
+299,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.07\nBetweness: 288306.000000\nCloseness: 0.0192\nRio Paraba do Sul
+300,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.21\nBetweness: 0.000000\nCloseness: 0.0188\nsem nome
+301,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.92\nBetweness: 2366.000000\nCloseness: 0.0189\nsem nome
+302,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.05\nBetweness: 297926.000000\nCloseness: 0.0200\nRio Paraba do Sul
+303,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.92\nBetweness: 286286.000000\nCloseness: 0.0189\nRio Paraba do Sul
+304,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.70\nBetweness: 278964.000000\nCloseness: 0.0183\nRio Paraba do Sul
+305,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.78\nBetweness: 0.000000\nCloseness: 0.0189\nsem nome
+306,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.35\nBetweness: 0.000000\nCloseness: 0.0195\nsem nome
+307,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.43\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+308,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.08\nBetweness: 275706.000000\nCloseness: 0.0178\nRio Paraba do Sul
+309,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.35\nBetweness: 2366.000000\nCloseness: 0.0199\nsem nome
+310,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.83\nBetweness: 296066.000000\nCloseness: 0.0197\nRio Paraba do Sul
+311,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.52\nBetweness: 0.000000\nCloseness: 0.0190\nsem nome
+312,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.62\nBetweness: 5900.000000\nCloseness: 0.0157\nRio Preto
+313,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.66\nBetweness: 299754.000000\nCloseness: 0.0201\nRio Paraba do Sul
+314,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.21\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+315,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.74\nBetweness: 0.000000\nCloseness: 0.0197\nsem nome
+316,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.36\nBetweness: 0.000000\nCloseness: 0.0191\nsem nome
+317,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.14\nBetweness: 0.000000\nCloseness: 0.0196\nsem nome
+318,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.76\nBetweness: 4724.000000\nCloseness: 0.0167\nRio Vermelho
+319,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.78\nBetweness: 11750.000000\nCloseness: 0.0173\nRio do Peixe
+320,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.98\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+321,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.96\nBetweness: 34650.000000\nCloseness: 0.0189\nRio do Peixe
+322,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.89\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+323,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.05\nBetweness: 0.000000\nCloseness: 0.0192\nsem nome
+324,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.78\nBetweness: 9416.000000\nCloseness: 0.0173\nRio Vermelho
+325,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.51\nBetweness: 2366.000000\nCloseness: 0.0132\nRio do Pinho
+326,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.10\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+327,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.50\nBetweness: 0.000000\nCloseness: 0.0131\nRio do Pinho
+328,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.94\nBetweness: 0.000000\nCloseness: 0.0164\nsem nome
+329,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.77\nBetweness: 7074.000000\nCloseness: 0.0170\nRio do Peixe
+330,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.97\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+331,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.29\nBetweness: 0.000000\nCloseness: 0.0203\nsem nome
+332,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.77\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+333,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.22\nBetweness: 0.000000\nCloseness: 0.0138\nRio Formoso
+334,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.76\nBetweness: 4724.000000\nCloseness: 0.0167\nRio do Peixe
+335,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.94\nBetweness: 2366.000000\nCloseness: 0.0167\nRio Paraibuna
+336,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.77\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+337,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.77\nBetweness: 2366.000000\nCloseness: 0.0170\nsem nome
+338,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.11\nBetweness: 0.000000\nCloseness: 0.0196\nsem nome
+339,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.95\nBetweness: 7074.000000\nCloseness: 0.0173\nRio Paraibuna
+340,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.97\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+341,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.94\nBetweness: 4724.000000\nCloseness: 0.0170\nRio Paraibuna
+342,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.80\nBetweness: 11750.000000\nCloseness: 0.0176\nRio Vermelho
+343,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.84\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+344,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.87\nBetweness: 30134.000000\nCloseness: 0.0182\nRio do Peixe
+345,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.98\nBetweness: 0.000000\nCloseness: 0.0185\nRio Monte Verde ou Santa Brbara
+346,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.44\nBetweness: 0.000000\nCloseness: 0.0211\nsem nome
+347,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.79\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+348,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.76\nBetweness: 0.000000\nCloseness: 0.0162\nRio Vermelho
+349,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.78\nBetweness: 0.000000\nCloseness: 0.0170\nsem nome
+350,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.10\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+351,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.94\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+352,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.10\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+353,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.76\nBetweness: 2366.000000\nCloseness: 0.0165\nRio Vermelho
+354,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.76\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+355,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.76\nBetweness: 0.000000\nCloseness: 0.0165\nsem nome
+356,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.08\nBetweness: 43586.000000\nCloseness: 0.0196\nRio do Peixe
+357,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.80\nBetweness: 14076.000000\nCloseness: 0.0176\nRio do Peixe
+358,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.98\nBetweness: 2366.000000\nCloseness: 0.0185\nsem nome
+359,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.79\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+360,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.98\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+361,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.41\nBetweness: 2366.000000\nCloseness: 0.0184\nsem nome
+362,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.50\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+363,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.95\nBetweness: 0.000000\nCloseness: 0.0170\nsem nome
+364,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.83\nBetweness: 27864.000000\nCloseness: 0.0179\nRio do Peixe
+365,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.10\nBetweness: 0.000000\nCloseness: 0.0131\nRio Pomba
+366,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.85\nBetweness: 0.000000\nCloseness: 0.0179\nsem nome
+367,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.02\nBetweness: 41364.000000\nCloseness: 0.0192\nRio do Peixe
+368,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.10\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+369,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.77\nBetweness: 7074.000000\nCloseness: 0.0170\nRio Vermelho
+370,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.84\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+371,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.94\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+372,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.76\nBetweness: 0.000000\nCloseness: 0.0162\nsem nome
+373,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.92\nBetweness: 32396.000000\nCloseness: 0.0185\nRio do Peixe
+374,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.41\nBetweness: 0.000000\nCloseness: 0.0207\nsem nome
+375,Coef. Aglom: 1.00\nMenor Caminho Medio: 75.51\nBetweness: 0.000000\nCloseness: 0.0132\nsem nome
+376,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.94\nBetweness: 0.000000\nCloseness: 0.0164\nRio Paraibuna
+377,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.51\nBetweness: 0.000000\nCloseness: 0.0134\nsem nome
+378,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.11\nBetweness: 7074.000000\nCloseness: 0.0135\nsem nome
+379,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.99\nBetweness: 4724.000000\nCloseness: 0.0189\nRio Monte Verde ou Santa Brbara
+380,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.73\nBetweness: 2366.000000\nCloseness: 0.0170\nsem nome
+381,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.39\nBetweness: 0.000000\nCloseness: 0.0198\nsem nome
+382,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.97\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+383,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.10\nBetweness: 0.000000\nCloseness: 0.0200\nsem nome
+384,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.11\nBetweness: 0.000000\nCloseness: 0.0212\nsem nome
+385,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.10\nBetweness: 0.000000\nCloseness: 0.0188\nsem nome
+386,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.94\nBetweness: 41364.000000\nCloseness: 0.0185\nRio Preto
+387,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.53\nBetweness: 303314.000000\nCloseness: 0.0206\nRio Paraba do Sul
+388,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.14\nBetweness: 52394.000000\nCloseness: 0.0196\nRio Preto
+389,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.78\nBetweness: 314000.000000\nCloseness: 0.0218\nRio Paraba do Sul
+390,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.88\nBetweness: 39134.000000\nCloseness: 0.0182\nRio Preto
+391,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.75\nBetweness: 25586.000000\nCloseness: 0.0173\nRio Preto
+392,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.91\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+393,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.84\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+394,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.81\nBetweness: 0.000000\nCloseness: 0.0176\nsem nome
+395,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.11\nBetweness: 4724.000000\nCloseness: 0.0212\nsem nome
+396,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.10\nBetweness: 0.000000\nCloseness: 0.0200\nsem nome
+397,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.50\nBetweness: 0.000000\nCloseness: 0.0215\nsem nome
+398,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.44\nBetweness: 312444.000000\nCloseness: 0.0215\nRio Paraba do Sul
+399,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.01\nBetweness: 43586.000000\nCloseness: 0.0189\nRio Preto
+400,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.85\nBetweness: 0.000000\nCloseness: 0.0205\nsem nome
+401,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.41\nBetweness: 4724.000000\nCloseness: 0.0187\nsem nome
+402,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.26\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+403,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.84\nBetweness: 2366.000000\nCloseness: 0.0176\nsem nome
+404,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.22\nBetweness: 2366.000000\nCloseness: 0.0203\nsem nome
+405,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.11\nBetweness: 310856.000000\nCloseness: 0.0212\nRio Paraba do Sul
+406,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.10\nBetweness: 7074.000000\nCloseness: 0.0204\nRio Pira
+407,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.09\nBetweness: 0.000000\nCloseness: 0.0200\nRio Guandu
+408,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.39\nBetweness: 0.000000\nCloseness: 0.0198\nsem nome
+409,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.83\nBetweness: 30134.000000\nCloseness: 0.0179\nRio Preto
+410,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.85\nBetweness: 7074.000000\nCloseness: 0.0179\nsem nome
+411,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.11\nBetweness: 313226.000000\nCloseness: 0.0217\nRio Paraba do Sul
+412,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.10\nBetweness: 0.000000\nCloseness: 0.0208\nsem nome
+413,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.84\nBetweness: 2366.000000\nCloseness: 0.0176\nsem nome
+414,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.80\nBetweness: 305046.000000\nCloseness: 0.0209\nRio Paraba do Sul
+415,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.10\nBetweness: 0.000000\nCloseness: 0.0204\nsem nome
+416,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.78\nBetweness: 0.000000\nCloseness: 0.0209\nsem nome
+417,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.59\nBetweness: 0.000000\nCloseness: 0.0202\nsem nome
+418,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.10\nBetweness: 0.000000\nCloseness: 0.0204\nsem nome
+419,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.46\nBetweness: 317016.000000\nCloseness: 0.0220\nRio Paraba do Sul
+420,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.10\nBetweness: 4724.000000\nCloseness: 0.0192\nRio das Flores
+421,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.77\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+422,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.22\nBetweness: 54576.000000\nCloseness: 0.0199\nRio Preto
+423,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.17\nBetweness: 304184.000000\nCloseness: 0.0208\nRio Paraba do Sul
+424,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.45\nBetweness: 0.000000\nCloseness: 0.0215\nsem nome
+425,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.11\nBetweness: 11750.000000\nCloseness: 0.0208\nRio Pira
+426,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.45\nBetweness: 310050.000000\nCloseness: 0.0211\nRio Paraba do Sul
+427,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.10\nBetweness: 2366.000000\nCloseness: 0.0208\nsem nome
+428,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.12\nBetweness: 7074.000000\nCloseness: 0.0217\nsem nome
+429,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.20\nBetweness: 0.000000\nCloseness: 0.0216\nsem nome
+430,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.81\nBetweness: 0.000000\nCloseness: 0.0218\nsem nome
+431,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.04\nBetweness: 0.000000\nCloseness: 0.0189\nsem nome
+432,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.10\nBetweness: 2366.000000\nCloseness: 0.0188\nRio das Flores
+433,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.79\nBetweness: 27864.000000\nCloseness: 0.0176\nRio Preto
+434,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.07\nBetweness: 45800.000000\nCloseness: 0.0192\nRio Preto
+435,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.09\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+436,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.77\nBetweness: 0.000000\nCloseness: 0.0214\nsem nome
+437,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.19\nBetweness: 0.000000\nCloseness: 0.0139\nsem nome
+438,Coef. Aglom: 0.33\nMenor Caminho Medio: 87.57\nBetweness: 2366.000000\nCloseness: 0.0114\nRio Glria
+439,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.09\nBetweness: 0.000000\nCloseness: 0.0185\nRio das Flores
+440,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.90\nBetweness: 301550.000000\nCloseness: 0.0204\nRio Paraba do Sul
+441,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.18\nBetweness: 0.000000\nCloseness: 0.0195\nsem nome
+442,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.48\nBetweness: 0.000000\nCloseness: 0.0206\nsem nome
+443,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.21\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+444,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.84\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+445,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.11\nBetweness: 0.000000\nCloseness: 0.0212\nsem nome
+446,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.96\nBetweness: 0.000000\nCloseness: 0.0218\nsem nome
+447,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.77\nBetweness: 311654.000000\nCloseness: 0.0214\nRio Paraba do Sul
+448,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.10\nBetweness: 2366.000000\nCloseness: 0.0204\nsem nome
+449,Coef. Aglom: 0.33\nMenor Caminho Medio: 70.23\nBetweness: 4724.000000\nCloseness: 0.0142\nRio Formoso
+450,Coef. Aglom: 1.00\nMenor Caminho Medio: 71.56\nBetweness: 0.000000\nCloseness: 0.0140\nsem nome
+451,Coef. Aglom: 0.33\nMenor Caminho Medio: 71.55\nBetweness: 11750.000000\nCloseness: 0.0140\nRio Novo
+452,Coef. Aglom: 0.33\nMenor Caminho Medio: 72.15\nBetweness: 18704.000000\nCloseness: 0.0139\nRio Pomba
+453,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.10\nBetweness: 0.000000\nCloseness: 0.0200\nsem nome
+454,Coef. Aglom: 0.33\nMenor Caminho Medio: 71.22\nBetweness: 2366.000000\nCloseness: 0.0140\nRio Formoso
+455,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.54\nBetweness: 0.000000\nCloseness: 0.0138\nsem nome
+456,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.28\nBetweness: 0.000000\nCloseness: 0.0144\nsem nome
+457,Coef. Aglom: 0.33\nMenor Caminho Medio: 72.53\nBetweness: 9416.000000\nCloseness: 0.0138\nRio Novo
+458,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.10\nBetweness: 0.000000\nCloseness: 0.0200\nRio Cgado
+459,Coef. Aglom: 0.33\nMenor Caminho Medio: 71.18\nBetweness: 21006.000000\nCloseness: 0.0140\nRio Pomba
+460,Coef. Aglom: 1.00\nMenor Caminho Medio: 71.22\nBetweness: 0.000000\nCloseness: 0.0140\nsem nome
+461,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.25\nBetweness: 32396.000000\nCloseness: 0.0144\nRio Pomba
+462,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.58\nBetweness: 0.000000\nCloseness: 0.0142\nsem nome
+463,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.14\nBetweness: 0.000000\nCloseness: 0.0212\nsem nome
+464,Coef. Aglom: 0.33\nMenor Caminho Medio: 70.57\nBetweness: 14076.000000\nCloseness: 0.0142\nRio Novo
+465,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.16\nBetweness: 0.000000\nCloseness: 0.0139\nsem nome
+466,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.15\nBetweness: 2366.000000\nCloseness: 0.0217\nsem nome
+467,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.31\nBetweness: 9416.000000\nCloseness: 0.0207\nRio Piabanha
+468,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.40\nBetweness: 0.000000\nCloseness: 0.0207\nsem nome
+469,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.30\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+470,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.38\nBetweness: 52394.000000\nCloseness: 0.0216\nRio Piabanha
+471,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.47\nBetweness: 63224.000000\nCloseness: 0.0220\nRio Piabanha
+472,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.57\nBetweness: 65366.000000\nCloseness: 0.0224\nRio Piabanha
+473,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.06\nBetweness: 137150.000000\nCloseness: 0.0222\nRio Paraibuna
+474,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.30\nBetweness: 0.000000\nCloseness: 0.0195\nsem nome
+475,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.30\nBetweness: 4724.000000\nCloseness: 0.0203\nRio Piabanha
+476,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.02\nBetweness: 338400.000000\nCloseness: 0.0227\nRio Paraba do Sul
+477,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.16\nBetweness: 18704.000000\nCloseness: 0.0221\nRio Cgado
+478,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.30\nBetweness: 153476.000000\nCloseness: 0.0226\nRio Paraibuna
+479,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.39\nBetweness: 4724.000000\nCloseness: 0.0207\nsem nome
+480,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.30\nBetweness: 2366.000000\nCloseness: 0.0199\nRio Piabanha
+481,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.30\nBetweness: 0.000000\nCloseness: 0.0195\nRio Piabanha
+482,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.31\nBetweness: 2366.000000\nCloseness: 0.0203\nsem nome
+483,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.40\nBetweness: 7074.000000\nCloseness: 0.0211\nsem nome
+484,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.42\nBetweness: 9416.000000\nCloseness: 0.0215\nsem nome
+485,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.32\nBetweness: 4724.000000\nCloseness: 0.0207\nsem nome
+486,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.26\nBetweness: 321300.000000\nCloseness: 0.0226\nRio Paraba do Sul
+487,Coef. Aglom: 0.33\nMenor Caminho Medio: 109.82\nBetweness: 2366.000000\nCloseness: 0.0091\nsem nome
+488,Coef. Aglom: 1.00\nMenor Caminho Medio: 110.82\nBetweness: 0.000000\nCloseness: 0.0090\nsem nome
+489,Coef. Aglom: 0.33\nMenor Caminho Medio: 100.27\nBetweness: 7074.000000\nCloseness: 0.0100\nRibeiro do Chape
+490,Coef. Aglom: 1.00\nMenor Caminho Medio: 93.77\nBetweness: 0.000000\nCloseness: 0.0107\nsem nome
+491,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.88\nBetweness: 0.000000\nCloseness: 0.0137\nsem nome
+492,Coef. Aglom: 0.33\nMenor Caminho Medio: 73.44\nBetweness: 212300.000000\nCloseness: 0.0136\nRio Paraba do Sul
+493,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.99\nBetweness: 204750.000000\nCloseness: 0.0132\nRio Paraba do Sul
+494,Coef. Aglom: 1.00\nMenor Caminho Medio: 105.53\nBetweness: 0.000000\nCloseness: 0.0095\nsem nome
+495,Coef. Aglom: 0.33\nMenor Caminho Medio: 91.77\nBetweness: 4724.000000\nCloseness: 0.0109\nsem nome
+496,Coef. Aglom: 1.00\nMenor Caminho Medio: 103.99\nBetweness: 0.000000\nCloseness: 0.0096\nRibeiro Itaim
+497,Coef. Aglom: 0.33\nMenor Caminho Medio: 98.38\nBetweness: 2366.000000\nCloseness: 0.0102\nsem nome
+498,Coef. Aglom: 0.33\nMenor Caminho Medio: 102.03\nBetweness: 45800.000000\nCloseness: 0.0098\nRio Paraitinga
+499,Coef. Aglom: 1.00\nMenor Caminho Medio: 103.99\nBetweness: 0.000000\nCloseness: 0.0096\nsem nome
+500,Coef. Aglom: 0.33\nMenor Caminho Medio: 100.17\nBetweness: 50204.000000\nCloseness: 0.0100\nRio Paraitinga
+501,Coef. Aglom: 0.33\nMenor Caminho Medio: 102.97\nBetweness: 41364.000000\nCloseness: 0.0097\nRio Paraitinga
+502,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.34\nBetweness: 206276.000000\nCloseness: 0.0133\nRio Paraba do Sul
+503,Coef. Aglom: 0.33\nMenor Caminho Medio: 98.34\nBetweness: 63224.000000\nCloseness: 0.0102\nRio Paraitinga
+504,Coef. Aglom: 1.00\nMenor Caminho Medio: 102.07\nBetweness: 0.000000\nCloseness: 0.0098\nsem nome
+505,Coef. Aglom: 1.00\nMenor Caminho Medio: 78.11\nBetweness: 0.000000\nCloseness: 0.0128\nsem nome
+506,Coef. Aglom: 1.00\nMenor Caminho Medio: 103.25\nBetweness: 0.000000\nCloseness: 0.0097\nRibeiro do Chape
+507,Coef. Aglom: 1.00\nMenor Caminho Medio: 103.25\nBetweness: 0.000000\nCloseness: 0.0097\nsem nome
+508,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.07\nBetweness: 210806.000000\nCloseness: 0.0135\nRio Paraba do Sul
+509,Coef. Aglom: 1.00\nMenor Caminho Medio: 75.86\nBetweness: 0.000000\nCloseness: 0.0132\nsem nome
+510,Coef. Aglom: 1.00\nMenor Caminho Medio: 110.82\nBetweness: 0.000000\nCloseness: 0.0090\nsem nome
+511,Coef. Aglom: 1.00\nMenor Caminho Medio: 99.38\nBetweness: 0.000000\nCloseness: 0.0101\nsem nome
+512,Coef. Aglom: 1.00\nMenor Caminho Medio: 99.38\nBetweness: 0.000000\nCloseness: 0.0101\nsem nome
+513,Coef. Aglom: 0.33\nMenor Caminho Medio: 79.40\nBetweness: 43586.000000\nCloseness: 0.0126\nRio Jaguari
+514,Coef. Aglom: 0.33\nMenor Caminho Medio: 92.77\nBetweness: 2366.000000\nCloseness: 0.0108\nsem nome
+515,Coef. Aglom: 0.33\nMenor Caminho Medio: 101.10\nBetweness: 48006.000000\nCloseness: 0.0099\nRio Paraitinga
+516,Coef. Aglom: 0.33\nMenor Caminho Medio: 99.28\nBetweness: 9416.000000\nCloseness: 0.0101\nRibeiro do Chape
+517,Coef. Aglom: 1.00\nMenor Caminho Medio: 77.46\nBetweness: 0.000000\nCloseness: 0.0129\nsem nome
+518,Coef. Aglom: 1.00\nMenor Caminho Medio: 82.39\nBetweness: 0.000000\nCloseness: 0.0121\nsem nome
+519,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.38\nBetweness: 0.000000\nCloseness: 0.0138\nsem nome
+520,Coef. Aglom: 0.33\nMenor Caminho Medio: 99.25\nBetweness: 52394.000000\nCloseness: 0.0101\nRio Paraitinga
+521,Coef. Aglom: 1.00\nMenor Caminho Medio: 71.89\nBetweness: 0.000000\nCloseness: 0.0139\nsem nome
+522,Coef. Aglom: 1.00\nMenor Caminho Medio: 105.90\nBetweness: 0.000000\nCloseness: 0.0094\nsem nome
+523,Coef. Aglom: 0.33\nMenor Caminho Medio: 108.83\nBetweness: 4724.000000\nCloseness: 0.0092\nsem nome
+524,Coef. Aglom: 1.00\nMenor Caminho Medio: 73.87\nBetweness: 0.000000\nCloseness: 0.0135\nsem nome
+525,Coef. Aglom: 1.00\nMenor Caminho Medio: 73.63\nBetweness: 0.000000\nCloseness: 0.0136\nsem nome
+526,Coef. Aglom: 0.33\nMenor Caminho Medio: 77.94\nBetweness: 200124.000000\nCloseness: 0.0128\nRio Paraba do Sul
+527,Coef. Aglom: 1.00\nMenor Caminho Medio: 105.53\nBetweness: 0.000000\nCloseness: 0.0095\nRio Paraibuna
+528,Coef. Aglom: 0.33\nMenor Caminho Medio: 79.30\nBetweness: 162266.000000\nCloseness: 0.0126\nRio Paraba do Sul
+529,Coef. Aglom: 0.33\nMenor Caminho Medio: 73.86\nBetweness: 4724.000000\nCloseness: 0.0135\nRio Una ou das Almas
+530,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.86\nBetweness: 2366.000000\nCloseness: 0.0134\nsem nome
+531,Coef. Aglom: 1.00\nMenor Caminho Medio: 105.90\nBetweness: 0.000000\nCloseness: 0.0094\nsem nome
+532,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.52\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+533,Coef. Aglom: 1.00\nMenor Caminho Medio: 80.17\nBetweness: 0.000000\nCloseness: 0.0125\nsem nome
+534,Coef. Aglom: 0.33\nMenor Caminho Medio: 103.00\nBetweness: 2366.000000\nCloseness: 0.0097\nRibeiro Itaipi
+535,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.81\nBetweness: 0.000000\nCloseness: 0.0130\nsem nome
+536,Coef. Aglom: 1.00\nMenor Caminho Medio: 91.78\nBetweness: 0.000000\nCloseness: 0.0109\nsem nome
+537,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.52\nBetweness: 2366.000000\nCloseness: 0.0132\nsem nome
+538,Coef. Aglom: 0.33\nMenor Caminho Medio: 101.26\nBetweness: 4724.000000\nCloseness: 0.0099\nRibeiro do Chape
+539,Coef. Aglom: 0.33\nMenor Caminho Medio: 77.29\nBetweness: 201674.000000\nCloseness: 0.0129\nRio Paraba do Sul
+540,Coef. Aglom: 0.33\nMenor Caminho Medio: 102.26\nBetweness: 2366.000000\nCloseness: 0.0098\nRibeiro do Chape
+541,Coef. Aglom: 1.00\nMenor Caminho Medio: 101.14\nBetweness: 0.000000\nCloseness: 0.0099\nsem nome
+542,Coef. Aglom: 1.00\nMenor Caminho Medio: 93.77\nBetweness: 0.000000\nCloseness: 0.0107\nsem nome
+543,Coef. Aglom: 1.00\nMenor Caminho Medio: 73.00\nBetweness: 0.000000\nCloseness: 0.0137\nsem nome
+544,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.16\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+545,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.70\nBetweness: 209304.000000\nCloseness: 0.0134\nRio Paraba do Sul
+546,Coef. Aglom: 1.00\nMenor Caminho Medio: 109.82\nBetweness: 0.000000\nCloseness: 0.0091\nsem nome
+547,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.03\nBetweness: 160524.000000\nCloseness: 0.0125\nRio Paraba do Sul
+548,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.52\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+549,Coef. Aglom: 0.33\nMenor Caminho Medio: 72.87\nBetweness: 7074.000000\nCloseness: 0.0137\nRio Una ou das Almas
+550,Coef. Aglom: 0.33\nMenor Caminho Medio: 76.63\nBetweness: 203216.000000\nCloseness: 0.0130\nRio Paraba do Sul
+551,Coef. Aglom: 1.00\nMenor Caminho Medio: 92.77\nBetweness: 0.000000\nCloseness: 0.0108\nsem nome
+552,Coef. Aglom: 1.00\nMenor Caminho Medio: 100.21\nBetweness: 0.000000\nCloseness: 0.0100\nsem nome
+553,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.86\nBetweness: 0.000000\nCloseness: 0.0134\nRio Una ou das Almas
+554,Coef. Aglom: 0.33\nMenor Caminho Medio: 97.43\nBetweness: 67500.000000\nCloseness: 0.0103\nRio Paraitinga
+555,Coef. Aglom: 0.33\nMenor Caminho Medio: 78.60\nBetweness: 195426.000000\nCloseness: 0.0127\nRio Paraba do Sul
+556,Coef. Aglom: 0.33\nMenor Caminho Medio: 95.72\nBetweness: 30134.000000\nCloseness: 0.0104\nRio Paraibuna
+557,Coef. Aglom: 1.00\nMenor Caminho Medio: 102.55\nBetweness: 0.000000\nCloseness: 0.0098\nsem nome
+558,Coef. Aglom: 1.00\nMenor Caminho Medio: 99.69\nBetweness: 0.000000\nCloseness: 0.0100\nsem nome
+559,Coef. Aglom: 0.33\nMenor Caminho Medio: 90.78\nBetweness: 7074.000000\nCloseness: 0.0110\nsem nome
+560,Coef. Aglom: 0.33\nMenor Caminho Medio: 91.48\nBetweness: 127800.000000\nCloseness: 0.0109\nRio Paraba do Sul
+561,Coef. Aglom: 1.00\nMenor Caminho Medio: 96.72\nBetweness: 0.000000\nCloseness: 0.0103\nsem nome
+562,Coef. Aglom: 1.00\nMenor Caminho Medio: 101.26\nBetweness: 0.000000\nCloseness: 0.0099\nsem nome
+563,Coef. Aglom: 1.00\nMenor Caminho Medio: 99.61\nBetweness: 0.000000\nCloseness: 0.0100\nsem nome
+564,Coef. Aglom: 1.00\nMenor Caminho Medio: 90.01\nBetweness: 0.000000\nCloseness: 0.0111\nsem nome
+565,Coef. Aglom: 0.33\nMenor Caminho Medio: 97.69\nBetweness: 2366.000000\nCloseness: 0.0102\nsem nome
+566,Coef. Aglom: 1.00\nMenor Caminho Medio: 87.25\nBetweness: 0.000000\nCloseness: 0.0115\nRio Jaguari
+567,Coef. Aglom: 1.00\nMenor Caminho Medio: 100.28\nBetweness: 0.000000\nCloseness: 0.0100\nsem nome
+568,Coef. Aglom: 0.33\nMenor Caminho Medio: 97.65\nBetweness: 21006.000000\nCloseness: 0.0102\nRio Paraibuna
+569,Coef. Aglom: 0.33\nMenor Caminho Medio: 101.56\nBetweness: 9416.000000\nCloseness: 0.0098\nRio Paraibuna
+570,Coef. Aglom: 0.33\nMenor Caminho Medio: 103.54\nBetweness: 4724.000000\nCloseness: 0.0097\nRio Paraibuna
+571,Coef. Aglom: 0.33\nMenor Caminho Medio: 87.57\nBetweness: 142664.000000\nCloseness: 0.0114\nRio Paraba do Sul
+572,Coef. Aglom: 0.33\nMenor Caminho Medio: 88.34\nBetweness: 140834.000000\nCloseness: 0.0113\nRio Paraba do Sul
+573,Coef. Aglom: 1.00\nMenor Caminho Medio: 95.98\nBetweness: 0.000000\nCloseness: 0.0104\nsem nome
+574,Coef. Aglom: 0.33\nMenor Caminho Medio: 96.54\nBetweness: 69626.000000\nCloseness: 0.0104\nRio Paraitinga
+575,Coef. Aglom: 1.00\nMenor Caminho Medio: 88.46\nBetweness: 0.000000\nCloseness: 0.0113\nsem nome
+576,Coef. Aglom: 1.00\nMenor Caminho Medio: 98.70\nBetweness: 0.000000\nCloseness: 0.0101\nsem nome
+577,Coef. Aglom: 0.33\nMenor Caminho Medio: 98.69\nBetweness: 2366.000000\nCloseness: 0.0101\nsem nome
+578,Coef. Aglom: 1.00\nMenor Caminho Medio: 96.59\nBetweness: 0.000000\nCloseness: 0.0104\nsem nome
+579,Coef. Aglom: 1.00\nMenor Caminho Medio: 87.69\nBetweness: 0.000000\nCloseness: 0.0114\nsem nome
+580,Coef. Aglom: 1.00\nMenor Caminho Medio: 89.23\nBetweness: 0.000000\nCloseness: 0.0112\nsem nome
+581,Coef. Aglom: 0.33\nMenor Caminho Medio: 90.68\nBetweness: 129686.000000\nCloseness: 0.0110\nRio Paraba do Sul
+582,Coef. Aglom: 0.33\nMenor Caminho Medio: 97.70\nBetweness: 2366.000000\nCloseness: 0.0102\nsem nome
+583,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.94\nBetweness: 7074.000000\nCloseness: 0.0164\nRio Grande
+584,Coef. Aglom: 1.00\nMenor Caminho Medio: 99.69\nBetweness: 0.000000\nCloseness: 0.0100\nsem nome
+585,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.64\nBetweness: 0.000000\nCloseness: 0.0118\nsem nome
+586,Coef. Aglom: 0.33\nMenor Caminho Medio: 95.64\nBetweness: 71744.000000\nCloseness: 0.0105\nRio Paraitinga
+587,Coef. Aglom: 0.33\nMenor Caminho Medio: 94.98\nBetweness: 2366.000000\nCloseness: 0.0105\nsem nome
+588,Coef. Aglom: 1.00\nMenor Caminho Medio: 103.54\nBetweness: 0.000000\nCloseness: 0.0097\nsem nome
+589,Coef. Aglom: 0.33\nMenor Caminho Medio: 93.90\nBetweness: 116316.000000\nCloseness: 0.0106\nRio Paraba do Sul
+590,Coef. Aglom: 1.00\nMenor Caminho Medio: 93.18\nBetweness: 0.000000\nCloseness: 0.0107\nsem nome
+591,Coef. Aglom: 0.33\nMenor Caminho Medio: 96.71\nBetweness: 11750.000000\nCloseness: 0.0103\nsem nome
+592,Coef. Aglom: 0.33\nMenor Caminho Medio: 93.09\nBetweness: 122094.000000\nCloseness: 0.0107\nRio Paraba do Sul
+593,Coef. Aglom: 0.33\nMenor Caminho Medio: 96.68\nBetweness: 23300.000000\nCloseness: 0.0103\nRio Paraibuna
+594,Coef. Aglom: 0.33\nMenor Caminho Medio: 94.75\nBetweness: 73854.000000\nCloseness: 0.0106\nRio Paraitinga
+595,Coef. Aglom: 1.00\nMenor Caminho Medio: 99.69\nBetweness: 0.000000\nCloseness: 0.0100\nsem nome
+596,Coef. Aglom: 0.33\nMenor Caminho Medio: 93.99\nBetweness: 4724.000000\nCloseness: 0.0106\nsem nome
+597,Coef. Aglom: 0.33\nMenor Caminho Medio: 92.28\nBetweness: 124004.000000\nCloseness: 0.0108\nRio Paraba do Sul
+598,Coef. Aglom: 1.00\nMenor Caminho Medio: 95.98\nBetweness: 0.000000\nCloseness: 0.0104\nsem nome
+599,Coef. Aglom: 0.33\nMenor Caminho Medio: 95.73\nBetweness: 14076.000000\nCloseness: 0.0104\nsem nome
+600,Coef. Aglom: 0.33\nMenor Caminho Medio: 89.90\nBetweness: 137150.000000\nCloseness: 0.0111\nRio Paraba do Sul
+601,Coef. Aglom: 1.00\nMenor Caminho Medio: 102.26\nBetweness: 0.000000\nCloseness: 0.0098\nsem nome
+602,Coef. Aglom: 0.33\nMenor Caminho Medio: 96.69\nBetweness: 4724.000000\nCloseness: 0.0103\nsem nome
+603,Coef. Aglom: 1.00\nMenor Caminho Medio: 98.69\nBetweness: 0.000000\nCloseness: 0.0101\nsem nome
+604,Coef. Aglom: 0.33\nMenor Caminho Medio: 98.69\nBetweness: 2366.000000\nCloseness: 0.0101\nsem nome
+605,Coef. Aglom: 1.00\nMenor Caminho Medio: 101.57\nBetweness: 0.000000\nCloseness: 0.0098\nsem nome
+606,Coef. Aglom: 1.00\nMenor Caminho Medio: 93.38\nBetweness: 0.000000\nCloseness: 0.0107\nsem nome
+607,Coef. Aglom: 1.00\nMenor Caminho Medio: 91.58\nBetweness: 0.000000\nCloseness: 0.0109\nsem nome
+608,Coef. Aglom: 1.00\nMenor Caminho Medio: 93.38\nBetweness: 0.000000\nCloseness: 0.0107\nsem nome
+609,Coef. Aglom: 0.33\nMenor Caminho Medio: 98.62\nBetweness: 18704.000000\nCloseness: 0.0101\nRio Paraibuna
+610,Coef. Aglom: 0.33\nMenor Caminho Medio: 99.59\nBetweness: 16394.000000\nCloseness: 0.0100\nRio Paraibuna
+611,Coef. Aglom: 0.33\nMenor Caminho Medio: 97.70\nBetweness: 7074.000000\nCloseness: 0.0102\nsem nome
+612,Coef. Aglom: 1.00\nMenor Caminho Medio: 104.54\nBetweness: 0.000000\nCloseness: 0.0096\nsem nome
+613,Coef. Aglom: 1.00\nMenor Caminho Medio: 101.58\nBetweness: 0.000000\nCloseness: 0.0098\nsem nome
+614,Coef. Aglom: 0.33\nMenor Caminho Medio: 94.77\nBetweness: 45800.000000\nCloseness: 0.0106\nRio Paraibuna
+615,Coef. Aglom: 1.00\nMenor Caminho Medio: 101.58\nBetweness: 0.000000\nCloseness: 0.0098\nsem nome
+616,Coef. Aglom: 1.00\nMenor Caminho Medio: 97.66\nBetweness: 0.000000\nCloseness: 0.0102\nsem nome
+617,Coef. Aglom: 1.00\nMenor Caminho Medio: 95.70\nBetweness: 0.000000\nCloseness: 0.0104\nsem nome
+618,Coef. Aglom: 1.00\nMenor Caminho Medio: 97.48\nBetweness: 0.000000\nCloseness: 0.0103\nsem nome
+619,Coef. Aglom: 0.33\nMenor Caminho Medio: 104.53\nBetweness: 2366.000000\nCloseness: 0.0096\nRio Paraibuna
+620,Coef. Aglom: 0.33\nMenor Caminho Medio: 102.55\nBetweness: 7074.000000\nCloseness: 0.0098\nRio Paraibuna
+621,Coef. Aglom: 0.33\nMenor Caminho Medio: 100.57\nBetweness: 11750.000000\nCloseness: 0.0099\nRio Paraibuna
+622,Coef. Aglom: 0.33\nMenor Caminho Medio: 100.58\nBetweness: 2366.000000\nCloseness: 0.0099\nsem nome
+623,Coef. Aglom: 0.33\nMenor Caminho Medio: 89.12\nBetweness: 138996.000000\nCloseness: 0.0112\nRio Paraba do Sul
+624,Coef. Aglom: 0.33\nMenor Caminho Medio: 92.38\nBetweness: 2366.000000\nCloseness: 0.0108\nsem nome
+625,Coef. Aglom: 1.00\nMenor Caminho Medio: 99.69\nBetweness: 0.000000\nCloseness: 0.0100\nsem nome
+626,Coef. Aglom: 1.00\nMenor Caminho Medio: 98.63\nBetweness: 0.000000\nCloseness: 0.0101\nsem nome
+627,Coef. Aglom: 1.00\nMenor Caminho Medio: 97.69\nBetweness: 0.000000\nCloseness: 0.0102\nsem nome
+628,Coef. Aglom: 1.00\nMenor Caminho Medio: 98.69\nBetweness: 0.000000\nCloseness: 0.0101\nsem nome
+629,Coef. Aglom: 1.00\nMenor Caminho Medio: 98.70\nBetweness: 0.000000\nCloseness: 0.0101\nsem nome
+630,Coef. Aglom: 1.00\nMenor Caminho Medio: 94.98\nBetweness: 0.000000\nCloseness: 0.0105\nsem nome
+631,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.62\nBetweness: 0.000000\nCloseness: 0.0142\nsem nome
+632,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.10\nBetweness: 0.000000\nCloseness: 0.0204\nsem nome
+633,Coef. Aglom: 0.33\nMenor Caminho Medio: 68.30\nBetweness: 34650.000000\nCloseness: 0.0146\nRio Pomba
+634,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.40\nBetweness: 0.000000\nCloseness: 0.0142\nRio Paraopeba
+635,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.62\nBetweness: 0.000000\nCloseness: 0.0144\nsem nome
+636,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.59\nBetweness: 16394.000000\nCloseness: 0.0144\nRio Novo
+637,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.19\nBetweness: 0.000000\nCloseness: 0.0139\nsem nome
+638,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.62\nBetweness: 0.000000\nCloseness: 0.0142\nsem nome
+639,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.41\nBetweness: 0.000000\nCloseness: 0.0144\nsem nome
+640,Coef. Aglom: 0.33\nMenor Caminho Medio: 71.19\nBetweness: 2366.000000\nCloseness: 0.0140\nsem nome
+641,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.36\nBetweness: 36896.000000\nCloseness: 0.0148\nRio Pomba
+642,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.10\nBetweness: 2366.000000\nCloseness: 0.0204\nRio Cgado
+643,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.14\nBetweness: 14076.000000\nCloseness: 0.0217\nRio Cgado
+644,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.33\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+645,Coef. Aglom: 1.00\nMenor Caminho Medio: 67.38\nBetweness: 0.000000\nCloseness: 0.0148\nsem nome
+646,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.11\nBetweness: 4724.000000\nCloseness: 0.0208\nRio Cgado
+647,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.60\nBetweness: 0.000000\nCloseness: 0.0144\nsem nome
+648,Coef. Aglom: 0.33\nMenor Caminho Medio: 70.21\nBetweness: 25586.000000\nCloseness: 0.0142\nRio Pomba
+649,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.09\nBetweness: 348986.000000\nCloseness: 0.0227\nRio Paraba do Sul
+650,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.62\nBetweness: 2366.000000\nCloseness: 0.0144\nsem nome
+651,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.32\nBetweness: 34650.000000\nCloseness: 0.0211\nRio Preto
+652,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.31\nBetweness: 0.000000\nCloseness: 0.0203\nsem nome
+653,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.02\nBetweness: 349496.000000\nCloseness: 0.0227\nRio Paraba do Sul
+654,Coef. Aglom: 0.33\nMenor Caminho Medio: 43.96\nBetweness: 349650.000000\nCloseness: 0.0227\nRio Paraba do Sul
+655,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.31\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+656,Coef. Aglom: 1.00\nMenor Caminho Medio: 44.49\nBetweness: 0.000000\nCloseness: 0.0225\nsem nome
+657,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.31\nBetweness: 2366.000000\nCloseness: 0.0203\nsem nome
+658,Coef. Aglom: 1.00\nMenor Caminho Medio: 44.63\nBetweness: 0.000000\nCloseness: 0.0224\nsem nome
+659,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.25\nBetweness: 0.000000\nCloseness: 0.0203\nsem nome
+660,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.31\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+661,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.33\nBetweness: 16394.000000\nCloseness: 0.0211\nRio Piabanha
+662,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.27\nBetweness: 32396.000000\nCloseness: 0.0207\nRio Preto
+663,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.57\nBetweness: 146300.000000\nCloseness: 0.0180\nRio Pomba
+664,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.67\nBetweness: 0.000000\nCloseness: 0.0120\nsem nome
+665,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.93\nBetweness: 0.000000\nCloseness: 0.0159\nsem nome
+666,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.93\nBetweness: 2366.000000\nCloseness: 0.0161\nsem nome
+667,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.76\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+668,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.53\nBetweness: 347274.000000\nCloseness: 0.0225\nRio Paraba do Sul
+669,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.54\nBetweness: 9416.000000\nCloseness: 0.0168\nsem nome
+670,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.64\nBetweness: 347024.000000\nCloseness: 0.0224\nRio Paraba do Sul
+671,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.62\nBetweness: 0.000000\nCloseness: 0.0117\nsem nome
+672,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.51\nBetweness: 2366.000000\nCloseness: 0.0144\nsem nome
+673,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.25\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+674,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.26\nBetweness: 0.000000\nCloseness: 0.0207\nsem nome
+675,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.64\nBetweness: 9416.000000\nCloseness: 0.0121\nRio Muria
+676,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.67\nBetweness: 0.000000\nCloseness: 0.0120\nRio Fumaa
+677,Coef. Aglom: 1.00\nMenor Caminho Medio: 82.65\nBetweness: 0.000000\nCloseness: 0.0121\nsem nome
+678,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.64\nBetweness: 0.000000\nCloseness: 0.0120\nsem nome
+679,Coef. Aglom: 1.00\nMenor Caminho Medio: 81.68\nBetweness: 0.000000\nCloseness: 0.0122\nRio Preto
+680,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.28\nBetweness: 0.000000\nCloseness: 0.0203\nsem nome
+681,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.01\nBetweness: 0.000000\nCloseness: 0.0213\nsem nome
+682,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.43\nBetweness: 343046.000000\nCloseness: 0.0220\nRio Paraba do Sul
+683,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.67\nBetweness: 0.000000\nCloseness: 0.0186\nsem nome
+684,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.94\nBetweness: 4724.000000\nCloseness: 0.0164\nsem nome
+685,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.24\nBetweness: 0.000000\nCloseness: 0.0175\nsem nome
+686,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.24\nBetweness: 4724.000000\nCloseness: 0.0175\nRio Negro
+687,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.23\nBetweness: 2366.000000\nCloseness: 0.0172\nRio Negro
+688,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.23\nBetweness: 0.000000\nCloseness: 0.0172\nsem nome
+689,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.01\nBetweness: 0.000000\nCloseness: 0.0213\nsem nome
+690,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.57\nBetweness: 0.000000\nCloseness: 0.0219\nsem nome
+691,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.62\nBetweness: 0.000000\nCloseness: 0.0117\nsem nome
+692,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.27\nBetweness: 0.000000\nCloseness: 0.0195\nRio Pirapetinga
+693,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.22\nBetweness: 0.000000\nCloseness: 0.0175\nsem nome
+694,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.10\nBetweness: 142664.000000\nCloseness: 0.0175\nRio Pomba
+695,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.45\nBetweness: 0.000000\nCloseness: 0.0177\nsem nome
+696,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.62\nBetweness: 0.000000\nCloseness: 0.0117\nRio Muria
+697,Coef. Aglom: 0.33\nMenor Caminho Medio: 84.62\nBetweness: 2366.000000\nCloseness: 0.0118\nsem nome
+698,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.29\nBetweness: 343746.000000\nCloseness: 0.0221\nRio Paraba do Sul
+699,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.27\nBetweness: 2366.000000\nCloseness: 0.0199\nRio Pirapetinga
+700,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.71\nBetweness: 0.000000\nCloseness: 0.0219\nsem nome
+701,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.27\nBetweness: 0.000000\nCloseness: 0.0195\nsem nome
+702,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.86\nBetweness: 2366.000000\nCloseness: 0.0218\nRio Angu
+703,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.00\nBetweness: 344414.000000\nCloseness: 0.0222\nRio Paraba do Sul
+704,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.88\nBetweness: 138996.000000\nCloseness: 0.0173\nRio Pomba
+705,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.14\nBetweness: 344084.000000\nCloseness: 0.0222\nRio Paraba do Sul
+706,Coef. Aglom: 0.33\nMenor Caminho Medio: 81.65\nBetweness: 16394.000000\nCloseness: 0.0122\nRio Glria
+707,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.99\nBetweness: 2366.000000\nCloseness: 0.0172\nsem nome
+708,Coef. Aglom: 0.33\nMenor Caminho Medio: 84.62\nBetweness: 2366.000000\nCloseness: 0.0118\nRio Muria
+709,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.87\nBetweness: 344736.000000\nCloseness: 0.0223\nRio Paraba do Sul
+710,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.93\nBetweness: 4724.000000\nCloseness: 0.0161\nRio Grande
+711,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.27\nBetweness: 0.000000\nCloseness: 0.0212\nsem nome
+712,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.23\nBetweness: 0.000000\nCloseness: 0.0169\nsem nome
+713,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.25\nBetweness: 0.000000\nCloseness: 0.0203\nsem nome
+714,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.92\nBetweness: 0.000000\nCloseness: 0.0156\nsem nome
+715,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.99\nBetweness: 0.000000\nCloseness: 0.0170\nsem nome
+716,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.34\nBetweness: 144486.000000\nCloseness: 0.0178\nRio Pomba
+717,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.63\nBetweness: 7074.000000\nCloseness: 0.0120\nRio Muria
+718,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.27\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+719,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.85\nBetweness: 0.000000\nCloseness: 0.0213\nsem nome
+720,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.99\nBetweness: 0.000000\nCloseness: 0.0170\nsem nome
+721,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.93\nBetweness: 0.000000\nCloseness: 0.0161\nsem nome
+722,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.93\nBetweness: 0.000000\nCloseness: 0.0161\nsem nome
+723,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.23\nBetweness: 0.000000\nCloseness: 0.0169\nRio Negro
+724,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.93\nBetweness: 0.000000\nCloseness: 0.0159\nsem nome
+725,Coef. Aglom: 0.33\nMenor Caminho Medio: 68.41\nBetweness: 4724.000000\nCloseness: 0.0146\nRio Paraopeba
+726,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.13\nBetweness: 0.000000\nCloseness: 0.0212\nsem nome
+727,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.10\nBetweness: 0.000000\nCloseness: 0.0200\nsem nome
+728,Coef. Aglom: 1.00\nMenor Caminho Medio: 67.66\nBetweness: 0.000000\nCloseness: 0.0148\nsem nome
+729,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.42\nBetweness: 7074.000000\nCloseness: 0.0148\nRio Paraopeba
+730,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.10\nBetweness: 0.000000\nCloseness: 0.0200\nsem nome
+731,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.42\nBetweness: 2366.000000\nCloseness: 0.0148\nsem nome
+732,Coef. Aglom: 0.33\nMenor Caminho Medio: 66.68\nBetweness: 27864.000000\nCloseness: 0.0150\nRio Novo
+733,Coef. Aglom: 0.33\nMenor Caminho Medio: 66.41\nBetweness: 39134.000000\nCloseness: 0.0151\nRio Pomba
+734,Coef. Aglom: 1.00\nMenor Caminho Medio: 66.57\nBetweness: 0.000000\nCloseness: 0.0150\nsem nome
+735,Coef. Aglom: 0.33\nMenor Caminho Medio: 68.62\nBetweness: 4724.000000\nCloseness: 0.0146\nsem nome
+736,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.11\nBetweness: 4724.000000\nCloseness: 0.0208\nsem nome
+737,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.22\nBetweness: 30134.000000\nCloseness: 0.0203\nRio Preto
+738,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.11\nBetweness: 7074.000000\nCloseness: 0.0188\nsem nome
+739,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.55\nBetweness: 0.000000\nCloseness: 0.0220\nsem nome
+740,Coef. Aglom: 1.00\nMenor Caminho Medio: 44.71\nBetweness: 0.000000\nCloseness: 0.0224\nsem nome
+741,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.17\nBetweness: 348800.000000\nCloseness: 0.0226\nRio Paraba do Sul
+742,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.09\nBetweness: 0.000000\nCloseness: 0.0178\nsem nome
+743,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.25\nBetweness: 348606.000000\nCloseness: 0.0226\nRio Paraba do Sul
+744,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.55\nBetweness: 2366.000000\nCloseness: 0.0220\nRio Calado
+745,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.09\nBetweness: 0.000000\nCloseness: 0.0178\nsem nome
+746,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.10\nBetweness: 4724.000000\nCloseness: 0.0185\nsem nome
+747,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.09\nBetweness: 2366.000000\nCloseness: 0.0182\nsem nome
+748,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.18\nBetweness: 27864.000000\nCloseness: 0.0199\nRio Preto
+749,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.25\nBetweness: 2366.000000\nCloseness: 0.0203\nRio Paquequer
+750,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.20\nBetweness: 0.000000\nCloseness: 0.0199\nsem nome
+751,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.09\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+752,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.64\nBetweness: 25586.000000\nCloseness: 0.0148\nRio Novo
+753,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.42\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+754,Coef. Aglom: 0.33\nMenor Caminho Medio: 68.61\nBetweness: 18704.000000\nCloseness: 0.0146\nRio Novo
+755,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.40\nBetweness: 0.000000\nCloseness: 0.0142\nsem nome
+756,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.10\nBetweness: 2366.000000\nCloseness: 0.0204\nsem nome
+757,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.12\nBetweness: 11750.000000\nCloseness: 0.0212\nRio Cgado
+758,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.41\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+759,Coef. Aglom: 1.00\nMenor Caminho Medio: 66.70\nBetweness: 0.000000\nCloseness: 0.0150\nsem nome
+760,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.42\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+761,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.10\nBetweness: 0.000000\nCloseness: 0.0204\nsem nome
+762,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.41\nBetweness: 2366.000000\nCloseness: 0.0144\nRio Paraopeba
+763,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.11\nBetweness: 0.000000\nCloseness: 0.0188\nsem nome
+764,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.29\nBetweness: 0.000000\nCloseness: 0.0207\nsem nome
+765,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.55\nBetweness: 4724.000000\nCloseness: 0.0224\nRio Calado
+766,Coef. Aglom: 1.00\nMenor Caminho Medio: 75.10\nBetweness: 0.000000\nCloseness: 0.0133\nsem nome
+767,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.49\nBetweness: 0.000000\nCloseness: 0.0206\nsem nome
+768,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.37\nBetweness: 58916.000000\nCloseness: 0.0195\nRio Grande
+769,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.29\nBetweness: 14076.000000\nCloseness: 0.0188\nRio Negro
+770,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.71\nBetweness: 0.000000\nCloseness: 0.0214\nsem nome
+771,Coef. Aglom: 0.33\nMenor Caminho Medio: 85.84\nBetweness: 4724.000000\nCloseness: 0.0116\nRio Carangola
+772,Coef. Aglom: 1.00\nMenor Caminho Medio: 81.02\nBetweness: 0.000000\nCloseness: 0.0123\nsem nome
+773,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.20\nBetweness: 0.000000\nCloseness: 0.0192\nsem nome
+774,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.91\nBetweness: 170856.000000\nCloseness: 0.0204\nRio Pomba
+775,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.27\nBetweness: 11750.000000\nCloseness: 0.0184\nRio Negro
+776,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.51\nBetweness: 9416.000000\nCloseness: 0.0215\nRibeiro das Areias
+777,Coef. Aglom: 0.33\nMenor Caminho Medio: 77.01\nBetweness: 2366.000000\nCloseness: 0.0130\nRio Gavio
+778,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.48\nBetweness: 174236.000000\nCloseness: 0.0211\nRio Pomba
+779,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.30\nBetweness: 0.000000\nCloseness: 0.0188\nsem nome
+780,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.49\nBetweness: 4724.000000\nCloseness: 0.0206\nRibeiro das Areias
+781,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.49\nBetweness: 7074.000000\nCloseness: 0.0211\nRibeiro das Areias
+782,Coef. Aglom: NaN\nMenor Caminho Medio: 88.83\nBetweness: 0.000000\nCloseness: 0.0113\nsem nome
+783,Coef. Aglom: 0.33\nMenor Caminho Medio: 84.85\nBetweness: 7074.000000\nCloseness: 0.0118\nRio Carangola
+784,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.84\nBetweness: 0.000000\nCloseness: 0.0116\nsem nome
+785,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.34\nBetweness: 0.000000\nCloseness: 0.0207\nsem nome
+786,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.11\nBetweness: 336776.000000\nCloseness: 0.0217\nRio Paraba do Sul
+787,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.19\nBetweness: 172550.000000\nCloseness: 0.0208\nRio Pomba
+788,Coef. Aglom: 0.33\nMenor Caminho Medio: 76.01\nBetweness: 4724.000000\nCloseness: 0.0132\nRio Gavio
+789,Coef. Aglom: 1.00\nMenor Caminho Medio: 78.00\nBetweness: 0.000000\nCloseness: 0.0128\nsem nome
+790,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.13\nBetweness: 32396.000000\nCloseness: 0.0181\nRio Grande
+791,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.11\nBetweness: 0.000000\nCloseness: 0.0178\nsem nome
+792,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.09\nBetweness: 30134.000000\nCloseness: 0.0178\nRio Grande
+793,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.28\nBetweness: 0.000000\nCloseness: 0.0184\nsem nome
+794,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.76\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+795,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.52\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+796,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.45\nBetweness: 125906.000000\nCloseness: 0.0168\nRio Pomba
+797,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.66\nBetweness: 135296.000000\nCloseness: 0.0170\nRio Pomba
+798,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.35\nBetweness: 0.000000\nCloseness: 0.0166\nsem nome
+799,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.75\nBetweness: 346766.000000\nCloseness: 0.0223\nRio Paraba do Sul
+800,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.29\nBetweness: 14076.000000\nCloseness: 0.0221\nRio Paquequer
+801,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.51\nBetweness: 0.000000\nCloseness: 0.0144\nRio dos Bagres
+802,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.51\nBetweness: 0.000000\nCloseness: 0.0142\nsem nome
+803,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.77\nBetweness: 2366.000000\nCloseness: 0.0170\nsem nome
+804,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.51\nBetweness: 0.000000\nCloseness: 0.0142\nsem nome
+805,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.26\nBetweness: 7074.000000\nCloseness: 0.0212\nRio Paquequer
+806,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.06\nBetweness: 61074.000000\nCloseness: 0.0133\nRio Muria
+807,Coef. Aglom: 0.33\nMenor Caminho Medio: 86.84\nBetweness: 2366.000000\nCloseness: 0.0115\nRio Carangola
+808,Coef. Aglom: 0.33\nMenor Caminho Medio: 73.25\nBetweness: 67500.000000\nCloseness: 0.0137\nRio Muria
+809,Coef. Aglom: 1.00\nMenor Caminho Medio: 78.09\nBetweness: 0.000000\nCloseness: 0.0128\nsem nome
+810,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.86\nBetweness: 0.000000\nCloseness: 0.0118\nsem nome
+811,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.62\nBetweness: 169154.000000\nCloseness: 0.0202\nRio Pomba
+812,Coef. Aglom: 0.00\nMenor Caminho Medio: 87.83\nBetweness: 1184.000000\nCloseness: 0.0114\nRio Carangola
+813,Coef. Aglom: 1.00\nMenor Caminho Medio: 86.84\nBetweness: 0.000000\nCloseness: 0.0115\nsem nome
+814,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.30\nBetweness: 0.000000\nCloseness: 0.0135\nsem nome
+815,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.76\nBetweness: 0.000000\nCloseness: 0.0201\nsem nome
+816,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.67\nBetweness: 2366.000000\nCloseness: 0.0121\nRio Fumaa
+817,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.69\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+818,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.93\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+819,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.17\nBetweness: 0.000000\nCloseness: 0.0217\nsem nome
+820,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.28\nBetweness: 4724.000000\nCloseness: 0.0203\nRio Pirapetinga
+821,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.81\nBetweness: 148106.000000\nCloseness: 0.0182\nRio Pomba
+822,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.59\nBetweness: 342314.000000\nCloseness: 0.0219\nRio Paraba do Sul
+823,Coef. Aglom: 0.33\nMenor Caminho Medio: 81.67\nBetweness: 4724.000000\nCloseness: 0.0122\nRio Fumaa
+824,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.01\nBetweness: 2366.000000\nCloseness: 0.0217\nsem nome
+825,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.95\nBetweness: 0.000000\nCloseness: 0.0164\nsem nome
+826,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.05\nBetweness: 0.000000\nCloseness: 0.0204\nsem nome
+827,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.30\nBetweness: 0.000000\nCloseness: 0.0135\nsem nome
+828,Coef. Aglom: 0.33\nMenor Caminho Medio: 76.12\nBetweness: 39134.000000\nCloseness: 0.0131\nRio Carangola
+829,Coef. Aglom: 1.00\nMenor Caminho Medio: 75.20\nBetweness: 0.000000\nCloseness: 0.0133\nsem nome
+830,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.85\nBetweness: 0.000000\nCloseness: 0.0118\nsem nome
+831,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.88\nBetweness: 14076.000000\nCloseness: 0.0121\nRio Carangola
+832,Coef. Aglom: 1.00\nMenor Caminho Medio: 78.09\nBetweness: 0.000000\nCloseness: 0.0128\nsem nome
+833,Coef. Aglom: 0.33\nMenor Caminho Medio: 73.30\nBetweness: 2366.000000\nCloseness: 0.0136\nsem nome
+834,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.02\nBetweness: 2366.000000\nCloseness: 0.0125\nsem nome
+835,Coef. Aglom: 1.00\nMenor Caminho Medio: 79.97\nBetweness: 0.000000\nCloseness: 0.0125\nsem nome
+836,Coef. Aglom: 0.33\nMenor Caminho Medio: 78.04\nBetweness: 7074.000000\nCloseness: 0.0128\nRio So Joo
+837,Coef. Aglom: 1.00\nMenor Caminho Medio: 79.03\nBetweness: 0.000000\nCloseness: 0.0127\nsem nome
+838,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.20\nBetweness: 2366.000000\nCloseness: 0.0135\nsem nome
+839,Coef. Aglom: 0.33\nMenor Caminho Medio: 77.07\nBetweness: 34650.000000\nCloseness: 0.0130\nRio Carangola
+840,Coef. Aglom: 0.33\nMenor Caminho Medio: 79.03\nBetweness: 4724.000000\nCloseness: 0.0127\nRio So Joo
+841,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.86\nBetweness: 9416.000000\nCloseness: 0.0119\nRio Carangola
+842,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.15\nBetweness: 63224.000000\nCloseness: 0.0135\nRio Muria
+843,Coef. Aglom: 1.00\nMenor Caminho Medio: 82.89\nBetweness: 0.000000\nCloseness: 0.0121\nsem nome
+844,Coef. Aglom: 1.00\nMenor Caminho Medio: 75.20\nBetweness: 0.000000\nCloseness: 0.0133\nsem nome
+845,Coef. Aglom: 0.33\nMenor Caminho Medio: 64.77\nBetweness: 32396.000000\nCloseness: 0.0154\nRio Novo
+846,Coef. Aglom: 0.33\nMenor Caminho Medio: 64.56\nBetweness: 54576.000000\nCloseness: 0.0155\nRio Pomba
+847,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.97\nBetweness: 2366.000000\nCloseness: 0.0218\nsem nome
+848,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.84\nBetweness: 0.000000\nCloseness: 0.0154\nsem nome
+849,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.82\nBetweness: 34650.000000\nCloseness: 0.0157\nRio Novo
+850,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.52\nBetweness: 2366.000000\nCloseness: 0.0160\nsem nome
+851,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.66\nBetweness: 75956.000000\nCloseness: 0.0157\nRio Pomba
+852,Coef. Aglom: 0.33\nMenor Caminho Medio: 64.58\nBetweness: 21006.000000\nCloseness: 0.0155\nRio Xopot
+853,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.71\nBetweness: 0.000000\nCloseness: 0.0155\nsem nome
+854,Coef. Aglom: 1.00\nMenor Caminho Medio: 66.57\nBetweness: 0.000000\nCloseness: 0.0150\nsem nome
+855,Coef. Aglom: 1.00\nMenor Caminho Medio: 67.54\nBetweness: 0.000000\nCloseness: 0.0148\nRio Xopot
+856,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.84\nBetweness: 0.000000\nCloseness: 0.0154\nsem nome
+857,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.57\nBetweness: 2366.000000\nCloseness: 0.0153\nsem nome
+858,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.71\nBetweness: 2366.000000\nCloseness: 0.0157\nsem nome
+859,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.71\nBetweness: 0.000000\nCloseness: 0.0155\nsem nome
+860,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.73\nBetweness: 30134.000000\nCloseness: 0.0152\nRio Novo
+861,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.84\nBetweness: 2366.000000\nCloseness: 0.0157\nsem nome
+862,Coef. Aglom: 1.00\nMenor Caminho Medio: 65.52\nBetweness: 0.000000\nCloseness: 0.0153\nsem nome
+863,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.79\nBetweness: 0.000000\nCloseness: 0.0154\nsem nome
+864,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.79\nBetweness: 0.000000\nCloseness: 0.0218\nsem nome
+865,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.90\nBetweness: 0.000000\nCloseness: 0.0159\nsem nome
+866,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.52\nBetweness: 0.000000\nCloseness: 0.0157\nsem nome
+867,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.30\nBetweness: 11750.000000\nCloseness: 0.0211\nRio Pirapetinga
+868,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.79\nBetweness: 0.000000\nCloseness: 0.0218\nsem nome
+869,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.08\nBetweness: 2366.000000\nCloseness: 0.0182\nRio Preto
+870,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.48\nBetweness: 52394.000000\nCloseness: 0.0153\nRio Pomba
+871,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.52\nBetweness: 0.000000\nCloseness: 0.0157\nsem nome
+872,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.97\nBetweness: 0.000000\nCloseness: 0.0213\nsem nome
+873,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.97\nBetweness: 0.000000\nCloseness: 0.0213\nsem nome
+874,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.08\nBetweness: 0.000000\nCloseness: 0.0178\nsem nome
+875,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.34\nBetweness: 348194.000000\nCloseness: 0.0226\nRio Paraba do Sul
+876,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.10\nBetweness: 11750.000000\nCloseness: 0.0188\nRio Preto
+877,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.11\nBetweness: 14076.000000\nCloseness: 0.0192\nRio Preto
+878,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.08\nBetweness: 2366.000000\nCloseness: 0.0182\nsem nome
+879,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.08\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+880,Coef. Aglom: 1.00\nMenor Caminho Medio: 44.89\nBetweness: 0.000000\nCloseness: 0.0223\nsem nome
+881,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.14\nBetweness: 25586.000000\nCloseness: 0.0196\nRio Preto
+882,Coef. Aglom: 0.33\nMenor Caminho Medio: 81.66\nBetweness: 11750.000000\nCloseness: 0.0122\nRio Muria
+883,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.29\nBetweness: 151694.000000\nCloseness: 0.0188\nRio Pomba
+884,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.68\nBetweness: 14076.000000\nCloseness: 0.0124\nRio Muria
+885,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.05\nBetweness: 149904.000000\nCloseness: 0.0185\nRio Pomba
+886,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.67\nBetweness: 2366.000000\nCloseness: 0.0190\nsem nome
+887,Coef. Aglom: 1.00\nMenor Caminho Medio: 88.57\nBetweness: 0.000000\nCloseness: 0.0113\nsem nome
+888,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.17\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+889,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.68\nBetweness: 7074.000000\nCloseness: 0.0124\nRio Fumaa
+890,Coef. Aglom: 1.00\nMenor Caminho Medio: 87.57\nBetweness: 0.000000\nCloseness: 0.0114\nsem nome
+891,Coef. Aglom: 1.00\nMenor Caminho Medio: 83.62\nBetweness: 0.000000\nCloseness: 0.0120\nsem nome
+892,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.55\nBetweness: 157016.000000\nCloseness: 0.0190\nRio Pomba
+893,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.60\nBetweness: 0.000000\nCloseness: 0.0118\nsem nome
+894,Coef. Aglom: 1.00\nMenor Caminho Medio: 81.67\nBetweness: 0.000000\nCloseness: 0.0122\nsem nome
+895,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.95\nBetweness: 14076.000000\nCloseness: 0.0167\nRio Grande
+896,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.96\nBetweness: 4724.000000\nCloseness: 0.0167\nsem nome
+897,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.95\nBetweness: 0.000000\nCloseness: 0.0161\nsem nome
+898,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.95\nBetweness: 0.000000\nCloseness: 0.0161\nsem nome
+899,Coef. Aglom: 0.33\nMenor Caminho Medio: 85.58\nBetweness: 7074.000000\nCloseness: 0.0117\nRio Glria
+900,Coef. Aglom: 1.00\nMenor Caminho Medio: 82.64\nBetweness: 0.000000\nCloseness: 0.0121\nsem nome
+901,Coef. Aglom: 1.00\nMenor Caminho Medio: 77.93\nBetweness: 0.000000\nCloseness: 0.0128\nsem nome
+902,Coef. Aglom: 1.00\nMenor Caminho Medio: 77.93\nBetweness: 0.000000\nCloseness: 0.0128\nsem nome
+903,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.81\nBetweness: 160524.000000\nCloseness: 0.0193\nRio Pomba
+904,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.93\nBetweness: 0.000000\nCloseness: 0.0189\nsem nome
+905,Coef. Aglom: 0.33\nMenor Caminho Medio: 84.59\nBetweness: 9416.000000\nCloseness: 0.0118\nRio Glria
+906,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.94\nBetweness: 2366.000000\nCloseness: 0.0193\nsem nome
+907,Coef. Aglom: 1.00\nMenor Caminho Medio: 81.66\nBetweness: 0.000000\nCloseness: 0.0122\nsem nome
+908,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.48\nBetweness: 0.000000\nCloseness: 0.0198\nsem nome
+909,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.32\nBetweness: 14076.000000\nCloseness: 0.0216\nRio Pirapetinga
+910,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.59\nBetweness: 0.000000\nCloseness: 0.0117\nsem nome
+911,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.41\nBetweness: 0.000000\nCloseness: 0.0184\nsem nome
+912,Coef. Aglom: 1.00\nMenor Caminho Medio: 86.58\nBetweness: 0.000000\nCloseness: 0.0116\nsem nome
+913,Coef. Aglom: 0.33\nMenor Caminho Medio: 86.57\nBetweness: 4724.000000\nCloseness: 0.0116\nRio Glria
+914,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.93\nBetweness: 0.000000\nCloseness: 0.0189\nsem nome
+915,Coef. Aglom: 0.33\nMenor Caminho Medio: 78.75\nBetweness: 45800.000000\nCloseness: 0.0127\nRio Muria
+916,Coef. Aglom: 1.00\nMenor Caminho Medio: 77.86\nBetweness: 0.000000\nCloseness: 0.0128\nsem nome
+917,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.05\nBetweness: 27864.000000\nCloseness: 0.0175\nRio Grande
+918,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.99\nBetweness: 0.000000\nCloseness: 0.0170\nsem nome
+919,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.26\nBetweness: 0.000000\nCloseness: 0.0181\nsem nome
+920,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.01\nBetweness: 23300.000000\nCloseness: 0.0172\nRio Grande
+921,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.02\nBetweness: 2366.000000\nCloseness: 0.0172\nsem nome
+922,Coef. Aglom: 1.00\nMenor Caminho Medio: 78.79\nBetweness: 0.000000\nCloseness: 0.0127\nsem nome
+923,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.41\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+924,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.31\nBetweness: 0.000000\nCloseness: 0.0211\nsem nome
+925,Coef. Aglom: 0.33\nMenor Caminho Medio: 82.63\nBetweness: 14076.000000\nCloseness: 0.0121\nRio Glria
+926,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.29\nBetweness: 2366.000000\nCloseness: 0.0207\nsem nome
+927,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.68\nBetweness: 18704.000000\nCloseness: 0.0124\nRio Glria
+928,Coef. Aglom: 0.33\nMenor Caminho Medio: 79.70\nBetweness: 23300.000000\nCloseness: 0.0125\nRio Muria
+929,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.48\nBetweness: 0.000000\nCloseness: 0.0198\nRibeiro das Areias
+930,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.67\nBetweness: 0.000000\nCloseness: 0.0186\nsem nome
+931,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.29\nBetweness: 7074.000000\nCloseness: 0.0207\nRio Pirapetinga
+932,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.29\nBetweness: 0.000000\nCloseness: 0.0203\nsem nome
+933,Coef. Aglom: 1.00\nMenor Caminho Medio: 82.67\nBetweness: 0.000000\nCloseness: 0.0121\nsem nome
+934,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.75\nBetweness: 341936.000000\nCloseness: 0.0219\nRio Paraba do Sul
+935,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.41\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+936,Coef. Aglom: 1.00\nMenor Caminho Medio: 88.57\nBetweness: 0.000000\nCloseness: 0.0113\nRio Glria
+937,Coef. Aglom: 1.00\nMenor Caminho Medio: 80.69\nBetweness: 0.000000\nCloseness: 0.0124\nsem nome
+938,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.61\nBetweness: 11750.000000\nCloseness: 0.0120\nRio Glria
+939,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.29\nBetweness: 0.000000\nCloseness: 0.0203\nsem nome
+940,Coef. Aglom: 0.33\nMenor Caminho Medio: 79.70\nBetweness: 21006.000000\nCloseness: 0.0125\nRio Glria
+941,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.95\nBetweness: 2366.000000\nCloseness: 0.0164\nsem nome
+942,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.98\nBetweness: 21006.000000\nCloseness: 0.0170\nRio Grande
+943,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.48\nBetweness: 0.000000\nCloseness: 0.0198\nsem nome
+944,Coef. Aglom: 0.33\nMenor Caminho Medio: 76.93\nBetweness: 2366.000000\nCloseness: 0.0130\nsem nome
+945,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.54\nBetweness: 0.000000\nCloseness: 0.0215\nsem nome
+946,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.50\nBetweness: 0.000000\nCloseness: 0.0211\nsem nome
+947,Coef. Aglom: 1.00\nMenor Caminho Medio: 77.01\nBetweness: 0.000000\nCloseness: 0.0130\nsem nome
+948,Coef. Aglom: 0.33\nMenor Caminho Medio: 45.92\nBetweness: 339066.000000\nCloseness: 0.0218\nRio Paraba do Sul
+949,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.35\nBetweness: 167444.000000\nCloseness: 0.0199\nRio Pomba
+950,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.07\nBetweness: 164000.000000\nCloseness: 0.0196\nRio Pomba
+951,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.48\nBetweness: 0.000000\nCloseness: 0.0202\nsem nome
+952,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.48\nBetweness: 2366.000000\nCloseness: 0.0202\nRibeiro das Areias
+953,Coef. Aglom: 1.00\nMenor Caminho Medio: 78.00\nBetweness: 0.000000\nCloseness: 0.0128\nRio Gavio
+954,Coef. Aglom: 0.33\nMenor Caminho Medio: 76.90\nBetweness: 50204.000000\nCloseness: 0.0130\nRio Muria
+955,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.97\nBetweness: 54576.000000\nCloseness: 0.0132\nRio Muria
+956,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.20\nBetweness: 0.000000\nCloseness: 0.0192\nsem nome
+957,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.21\nBetweness: 2366.000000\nCloseness: 0.0195\nsem nome
+958,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.26\nBetweness: 9416.000000\nCloseness: 0.0181\nRio Negro
+959,Coef. Aglom: 1.00\nMenor Caminho Medio: 84.86\nBetweness: 0.000000\nCloseness: 0.0118\nsem nome
+960,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.07\nBetweness: 0.000000\nCloseness: 0.0175\nsem nome
+961,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.02\nBetweness: 0.000000\nCloseness: 0.0169\nsem nome
+962,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.02\nBetweness: 0.000000\nCloseness: 0.0169\nsem nome
+963,Coef. Aglom: 0.33\nMenor Caminho Medio: 66.43\nBetweness: 11750.000000\nCloseness: 0.0151\nRio Paraopeba
+964,Coef. Aglom: 1.00\nMenor Caminho Medio: 65.75\nBetweness: 0.000000\nCloseness: 0.0152\nsem nome
+965,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.54\nBetweness: 0.000000\nCloseness: 0.0215\nRio Calado
+966,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.12\nBetweness: 9416.000000\nCloseness: 0.0192\nsem nome
+967,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.10\nBetweness: 0.000000\nCloseness: 0.0185\nsem nome
+968,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.79\nBetweness: 2366.000000\nCloseness: 0.0223\nsem nome
+969,Coef. Aglom: 1.00\nMenor Caminho Medio: 80.02\nBetweness: 0.000000\nCloseness: 0.0125\nRio So Joo
+970,Coef. Aglom: 0.33\nMenor Caminho Medio: 83.87\nBetweness: 2366.000000\nCloseness: 0.0119\nsem nome
+971,Coef. Aglom: 1.00\nMenor Caminho Medio: 81.02\nBetweness: 0.000000\nCloseness: 0.0123\nsem nome
+972,Coef. Aglom: 1.00\nMenor Caminho Medio: 85.62\nBetweness: 0.000000\nCloseness: 0.0117\nsem nome
+973,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.54\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+974,Coef. Aglom: 0.33\nMenor Caminho Medio: 66.54\nBetweness: 9416.000000\nCloseness: 0.0150\nRio dos Bagres
+975,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.93\nBetweness: 41364.000000\nCloseness: 0.0161\nRio Novo
+976,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.19\nBetweness: 0.000000\nCloseness: 0.0221\nsem nome
+977,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.43\nBetweness: 0.000000\nCloseness: 0.0220\nsem nome
+978,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.56\nBetweness: 16394.000000\nCloseness: 0.0153\nRio Xopot
+979,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.53\nBetweness: 0.000000\nCloseness: 0.0163\nsem nome
+980,Coef. Aglom: 0.33\nMenor Caminho Medio: 66.54\nBetweness: 4724.000000\nCloseness: 0.0150\nRio Xopot
+981,Coef. Aglom: 0.33\nMenor Caminho Medio: 68.52\nBetweness: 4724.000000\nCloseness: 0.0146\nRio dos Bagres
+982,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.97\nBetweness: 0.000000\nCloseness: 0.0218\nsem nome
+983,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.98\nBetweness: 4724.000000\nCloseness: 0.0222\nsem nome
+984,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.90\nBetweness: 84284.000000\nCloseness: 0.0162\nRio Pomba
+985,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.06\nBetweness: 122094.000000\nCloseness: 0.0164\nRio Pomba
+986,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.77\nBetweness: 80136.000000\nCloseness: 0.0159\nRio Pomba
+987,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.87\nBetweness: 39134.000000\nCloseness: 0.0159\nRio Novo
+988,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.25\nBetweness: 124004.000000\nCloseness: 0.0166\nRio Pomba
+989,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.54\nBetweness: 0.000000\nCloseness: 0.0165\nsem nome
+990,Coef. Aglom: 1.00\nMenor Caminho Medio: 67.53\nBetweness: 0.000000\nCloseness: 0.0148\nsem nome
+991,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.16\nBetweness: 0.000000\nCloseness: 0.0164\nsem nome
+992,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.54\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+993,Coef. Aglom: 1.00\nMenor Caminho Medio: 46.85\nBetweness: 0.000000\nCloseness: 0.0213\nRio Angu
+994,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.54\nBetweness: 2366.000000\nCloseness: 0.0148\nsem nome
+995,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.83\nBetweness: 2366.000000\nCloseness: 0.0159\nsem nome
+996,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.83\nBetweness: 0.000000\nCloseness: 0.0157\nsem nome
+997,Coef. Aglom: 0.33\nMenor Caminho Medio: 44.43\nBetweness: 347976.000000\nCloseness: 0.0225\nRio Paraba do Sul
+998,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.52\nBetweness: 4724.000000\nCloseness: 0.0163\nsem nome
+999,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.53\nBetweness: 7074.000000\nCloseness: 0.0148\nRio dos Bagres
+1000,Coef. Aglom: 1.00\nMenor Caminho Medio: 45.08\nBetweness: 0.000000\nCloseness: 0.0222\nsem nome
+1001,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.53\nBetweness: 7074.000000\nCloseness: 0.0165\nsem nome
+1002,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.83\nBetweness: 0.000000\nCloseness: 0.0157\nsem nome
+1003,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.52\nBetweness: 0.000000\nCloseness: 0.0160\nsem nome
+1004,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.28\nBetweness: 2366.000000\nCloseness: 0.0216\nRio So Francisco
+1005,Coef. Aglom: 1.00\nMenor Caminho Medio: 50.25\nBetweness: 0.000000\nCloseness: 0.0199\nRio Paquequer
+1006,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.25\nBetweness: 4724.000000\nCloseness: 0.0207\nRio Paquequer
+1007,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.28\nBetweness: 0.000000\nCloseness: 0.0212\nsem nome
+1008,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.92\nBetweness: 2366.000000\nCloseness: 0.0159\nRio Grande
+1009,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.27\nBetweness: 9416.000000\nCloseness: 0.0216\nRio Paquequer
+1010,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.08\nBetweness: 4724.000000\nCloseness: 0.0185\nsem nome
+1011,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.16\nBetweness: 0.000000\nCloseness: 0.0195\nsem nome
+1012,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.28\nBetweness: 0.000000\nCloseness: 0.0212\nRio So Francisco
+1013,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.92\nBetweness: 0.000000\nCloseness: 0.0159\nsem nome
+1014,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.08\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+1015,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.08\nBetweness: 0.000000\nCloseness: 0.0178\nsem nome
+1016,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.92\nBetweness: 0.000000\nCloseness: 0.0156\nRio Grande
+1017,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.08\nBetweness: 4724.000000\nCloseness: 0.0185\nRio Preto
+1018,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.10\nBetweness: 0.000000\nCloseness: 0.0188\nsem nome
+1019,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.08\nBetweness: 0.000000\nCloseness: 0.0178\nRio Preto
+1020,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.08\nBetweness: 0.000000\nCloseness: 0.0178\nsem nome
+1021,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.38\nBetweness: 0.000000\nCloseness: 0.0168\nsem nome
+1022,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.96\nBetweness: 172550.000000\nCloseness: 0.0176\nRio Muria
+1023,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.53\nBetweness: 0.000000\nCloseness: 0.0168\nsem nome
+1024,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.40\nBetweness: 167444.000000\nCloseness: 0.0171\nRio Muria
+1025,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.37\nBetweness: 0.000000\nCloseness: 0.0191\nsem nome
+1026,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.68\nBetweness: 170856.000000\nCloseness: 0.0173\nRio Muria
+1027,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.54\nBetweness: 2366.000000\nCloseness: 0.0171\nsem nome
+1028,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.55\nBetweness: 180900.000000\nCloseness: 0.0180\nRio Muria
+1029,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.00\nBetweness: 0.000000\nCloseness: 0.0189\nsem nome
+1030,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.39\nBetweness: 7074.000000\nCloseness: 0.0177\nCrrego da Ona
+1031,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.53\nBetweness: 0.000000\nCloseness: 0.0168\nsem nome
+1032,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.38\nBetweness: 2366.000000\nCloseness: 0.0171\nCrrego da Ona
+1033,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.01\nBetweness: 0.000000\nCloseness: 0.0182\nsem nome
+1034,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.99\nBetweness: 0.000000\nCloseness: 0.0167\nsem nome
+1035,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.32\nBetweness: 157016.000000\nCloseness: 0.0163\nRio Muria
+1036,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.25\nBetweness: 174236.000000\nCloseness: 0.0178\nRio Muria
+1037,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.18\nBetweness: 211554.000000\nCloseness: 0.0192\nRio Paraba do Sul
+1038,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.11\nBetweness: 0.000000\nCloseness: 0.0175\nsem nome
+1039,Coef. Aglom: 1.00\nMenor Caminho Medio: 58.38\nBetweness: 0.000000\nCloseness: 0.0171\nsem nome
+1040,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.93\nBetweness: 0.000000\nCloseness: 0.0156\nsem nome
+1041,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.93\nBetweness: 2366.000000\nCloseness: 0.0156\nsem nome
+1042,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.38\nBetweness: 0.000000\nCloseness: 0.0168\nCrrego da Ona
+1043,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.58\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+1044,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.42\nBetweness: 2366.000000\nCloseness: 0.0166\nsem nome
+1045,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.43\nBetweness: 0.000000\nCloseness: 0.0168\nsem nome
+1046,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.42\nBetweness: 0.000000\nCloseness: 0.0163\nsem nome
+1047,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.42\nBetweness: 0.000000\nCloseness: 0.0163\nsem nome
+1048,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.45\nBetweness: 22154.000000\nCloseness: 0.0174\nRio Paraba do Sul
+1049,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.56\nBetweness: 213044.000000\nCloseness: 0.0194\nRio Paraba do Sul
+1050,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.12\nBetweness: 165726.000000\nCloseness: 0.0169\nRio Muria
+1051,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.82\nBetweness: 149904.000000\nCloseness: 0.0159\nRio Muria
+1052,Coef. Aglom: 1.00\nMenor Caminho Medio: 66.77\nBetweness: 0.000000\nCloseness: 0.0150\nsem nome
+1053,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.85\nBetweness: 164000.000000\nCloseness: 0.0167\nRio Muria
+1054,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.11\nBetweness: 142664.000000\nCloseness: 0.0154\nRio Muria
+1055,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.12\nBetweness: 0.000000\nCloseness: 0.0196\nsem nome
+1056,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.31\nBetweness: 217466.000000\nCloseness: 0.0199\nRio Paraba do Sul
+1057,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.26\nBetweness: 0.000000\nCloseness: 0.0169\nsem nome
+1058,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.58\nBetweness: 162266.000000\nCloseness: 0.0165\nRio Muria
+1059,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.72\nBetweness: 0.000000\nCloseness: 0.0165\nsem nome
+1060,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.44\nBetweness: 0.000000\nCloseness: 0.0160\nsem nome
+1061,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.58\nBetweness: 146300.000000\nCloseness: 0.0157\nRio Muria
+1062,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.45\nBetweness: 4724.000000\nCloseness: 0.0163\nsem nome
+1063,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.07\nBetweness: 155250.000000\nCloseness: 0.0161\nRio Muria
+1064,Coef. Aglom: 0.33\nMenor Caminho Medio: 64.34\nBetweness: 144486.000000\nCloseness: 0.0155\nRio Muria
+1065,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.82\nBetweness: 0.000000\nCloseness: 0.0173\nsem nome
+1066,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.93\nBetweness: 0.000000\nCloseness: 0.0154\nsem nome
+1067,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.74\nBetweness: 255266.000000\nCloseness: 0.0201\nRio Paraba do Sul
+1068,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.93\nBetweness: 0.000000\nCloseness: 0.0154\nsem nome
+1069,Coef. Aglom: 0.33\nMenor Caminho Medio: 51.74\nBetweness: 2366.000000\nCloseness: 0.0193\nRio do Colgio
+1070,Coef. Aglom: 0.33\nMenor Caminho Medio: 65.89\nBetweness: 140834.000000\nCloseness: 0.0152\nRio Muria
+1071,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.44\nBetweness: 133434.000000\nCloseness: 0.0148\nRio Muria
+1072,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.46\nBetweness: 0.000000\nCloseness: 0.0155\nsem nome
+1073,Coef. Aglom: 0.33\nMenor Caminho Medio: 66.66\nBetweness: 138996.000000\nCloseness: 0.0150\nRio Muria
+1074,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.94\nBetweness: 4724.000000\nCloseness: 0.0159\nsem nome
+1075,Coef. Aglom: 0.33\nMenor Caminho Medio: 67.55\nBetweness: 4724.000000\nCloseness: 0.0148\nsem nome
+1076,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.44\nBetweness: 2366.000000\nCloseness: 0.0160\nsem nome
+1077,Coef. Aglom: 1.00\nMenor Caminho Medio: 66.00\nBetweness: 0.000000\nCloseness: 0.0152\nsem nome
+1078,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.44\nBetweness: 0.000000\nCloseness: 0.0158\nsem nome
+1079,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.46\nBetweness: 0.000000\nCloseness: 0.0202\nsem nome
+1080,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.93\nBetweness: 216000.000000\nCloseness: 0.0196\nRio Paraba do Sul
+1081,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.70\nBetweness: 2366.000000\nCloseness: 0.0157\nValo Grande
+1082,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.19\nBetweness: 0.000000\nCloseness: 0.0161\nsem nome
+1083,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.35\nBetweness: 0.000000\nCloseness: 0.0134\nRibeiro Conceio
+1084,Coef. Aglom: 0.33\nMenor Caminho Medio: 50.46\nBetweness: 61074.000000\nCloseness: 0.0198\nRio Grande
+1085,Coef. Aglom: 1.00\nMenor Caminho Medio: 49.98\nBetweness: 0.000000\nCloseness: 0.0200\nsem nome
+1086,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.44\nBetweness: 0.000000\nCloseness: 0.0158\nsem nome
+1087,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.20\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+1088,Coef. Aglom: 1.00\nMenor Caminho Medio: 53.26\nBetweness: 0.000000\nCloseness: 0.0188\nsem nome
+1089,Coef. Aglom: 0.33\nMenor Caminho Medio: 68.23\nBetweness: 131564.000000\nCloseness: 0.0147\nRio Muria
+1090,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.54\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+1091,Coef. Aglom: 0.33\nMenor Caminho Medio: 73.35\nBetweness: 2366.000000\nCloseness: 0.0136\nRibeiro Conceio
+1092,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.41\nBetweness: 0.000000\nCloseness: 0.0138\nsem nome
+1093,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.71\nBetweness: 257726.000000\nCloseness: 0.0205\nRio Paraba do Sul
+1094,Coef. Aglom: 1.00\nMenor Caminho Medio: 81.91\nBetweness: 0.000000\nCloseness: 0.0122\nsem nome
+1095,Coef. Aglom: 0.33\nMenor Caminho Medio: 68.54\nBetweness: 2366.000000\nCloseness: 0.0146\nsem nome
+1096,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.31\nBetweness: 16394.000000\nCloseness: 0.0191\nRio Negro
+1097,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.92\nBetweness: 0.000000\nCloseness: 0.0143\nsem nome
+1098,Coef. Aglom: 0.33\nMenor Caminho Medio: 76.20\nBetweness: 2366.000000\nCloseness: 0.0131\nsem nome
+1099,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.30\nBetweness: 41364.000000\nCloseness: 0.0191\nRio Grande
+1100,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.35\nBetweness: 0.000000\nCloseness: 0.0134\nsem nome
+1101,Coef. Aglom: 1.00\nMenor Caminho Medio: 72.44\nBetweness: 0.000000\nCloseness: 0.0138\nsem nome
+1102,Coef. Aglom: 1.00\nMenor Caminho Medio: 65.23\nBetweness: 0.000000\nCloseness: 0.0153\nsem nome
+1103,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.17\nBetweness: 261356.000000\nCloseness: 0.0212\nRio Paraba do Sul
+1104,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.69\nBetweness: 0.000000\nCloseness: 0.0155\nsem nome
+1105,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.42\nBetweness: 0.000000\nCloseness: 0.0211\nsem nome
+1106,Coef. Aglom: 0.33\nMenor Caminho Medio: 71.48\nBetweness: 56750.000000\nCloseness: 0.0140\nRio Carangola
+1107,Coef. Aglom: 1.00\nMenor Caminho Medio: 68.34\nBetweness: 0.000000\nCloseness: 0.0146\nsem nome
+1108,Coef. Aglom: 1.00\nMenor Caminho Medio: 79.00\nBetweness: 0.000000\nCloseness: 0.0127\nsem nome
+1109,Coef. Aglom: 1.00\nMenor Caminho Medio: 51.41\nBetweness: 0.000000\nCloseness: 0.0195\nsem nome
+1110,Coef. Aglom: 1.00\nMenor Caminho Medio: 76.15\nBetweness: 0.000000\nCloseness: 0.0131\nsem nome
+1111,Coef. Aglom: 0.33\nMenor Caminho Medio: 48.19\nBetweness: 258944.000000\nCloseness: 0.0208\nRio Paraba do Sul
+1112,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.95\nBetweness: 0.000000\nCloseness: 0.0204\nsem nome
+1113,Coef. Aglom: 0.33\nMenor Caminho Medio: 81.90\nBetweness: 16394.000000\nCloseness: 0.0122\nRio Carangola
+1114,Coef. Aglom: 0.33\nMenor Caminho Medio: 78.02\nBetweness: 25586.000000\nCloseness: 0.0128\nRio Carangola
+1115,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.24\nBetweness: 39134.000000\nCloseness: 0.0188\nRio Grande
+1116,Coef. Aglom: 1.00\nMenor Caminho Medio: 48.44\nBetweness: 0.000000\nCloseness: 0.0206\nsem nome
+1117,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.18\nBetweness: 41364.000000\nCloseness: 0.0133\nRio Carangola
+1118,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.67\nBetweness: 262550.000000\nCloseness: 0.0214\nRio Paraba do Sul
+1119,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.63\nBetweness: 0.000000\nCloseness: 0.0210\nsem nome
+1120,Coef. Aglom: 0.33\nMenor Caminho Medio: 47.68\nBetweness: 260154.000000\nCloseness: 0.0210\nRio Paraba do Sul
+1121,Coef. Aglom: 0.33\nMenor Caminho Medio: 70.62\nBetweness: 125906.000000\nCloseness: 0.0142\nRio Muria
+1122,Coef. Aglom: 1.00\nMenor Caminho Medio: 70.72\nBetweness: 0.000000\nCloseness: 0.0141\nRio Limoeiro
+1123,Coef. Aglom: 0.33\nMenor Caminho Medio: 74.24\nBetweness: 48006.000000\nCloseness: 0.0135\nRio Carangola
+1124,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.32\nBetweness: 336294.000000\nCloseness: 0.0216\nRio Paraba do Sul
+1125,Coef. Aglom: 1.00\nMenor Caminho Medio: 77.20\nBetweness: 0.000000\nCloseness: 0.0130\nsem nome
+1126,Coef. Aglom: 1.00\nMenor Caminho Medio: 77.20\nBetweness: 0.000000\nCloseness: 0.0130\nsem nome
+1127,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.82\nBetweness: 127800.000000\nCloseness: 0.0143\nRio Muria
+1128,Coef. Aglom: 1.00\nMenor Caminho Medio: 74.28\nBetweness: 0.000000\nCloseness: 0.0135\nsem nome
+1129,Coef. Aglom: 0.33\nMenor Caminho Medio: 69.02\nBetweness: 129686.000000\nCloseness: 0.0145\nRio Muria
+1130,Coef. Aglom: 0.33\nMenor Caminho Medio: 78.99\nBetweness: 23300.000000\nCloseness: 0.0127\nRio Carangola
+1131,Coef. Aglom: 0.33\nMenor Caminho Medio: 46.77\nBetweness: 175914.000000\nCloseness: 0.0214\nRio Pomba
+1132,Coef. Aglom: 0.33\nMenor Caminho Medio: 72.39\nBetweness: 54576.000000\nCloseness: 0.0138\nRio Carangola
+1133,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.69\nBetweness: 0.000000\nCloseness: 0.0155\nValo Grande
+1134,Coef. Aglom: 0.33\nMenor Caminho Medio: 71.46\nBetweness: 73854.000000\nCloseness: 0.0140\nRio Muria
+1135,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.74\nBetweness: 0.000000\nCloseness: 0.0190\nsem nome
+1136,Coef. Aglom: 0.33\nMenor Caminho Medio: 80.93\nBetweness: 18704.000000\nCloseness: 0.0124\nRio Carangola
+1137,Coef. Aglom: 1.00\nMenor Caminho Medio: 47.93\nBetweness: 0.000000\nCloseness: 0.0209\nsem nome
+1138,Coef. Aglom: 1.00\nMenor Caminho Medio: 52.74\nBetweness: 0.000000\nCloseness: 0.0190\nRio do Colgio
+1139,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.54\nBetweness: 0.000000\nCloseness: 0.0144\nsem nome
+1140,Coef. Aglom: 0.33\nMenor Caminho Medio: 72.35\nBetweness: 71744.000000\nCloseness: 0.0138\nRio Muria
+1141,Coef. Aglom: 0.33\nMenor Caminho Medio: 73.32\nBetweness: 50204.000000\nCloseness: 0.0136\nRio Carangola
+1142,Coef. Aglom: 0.33\nMenor Caminho Medio: 75.21\nBetweness: 4724.000000\nCloseness: 0.0133\nsem nome
+1143,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.13\nBetweness: 0.000000\nCloseness: 0.0145\nsem nome
+1144,Coef. Aglom: 1.00\nMenor Caminho Medio: 80.94\nBetweness: 0.000000\nCloseness: 0.0124\nsem nome
+1145,Coef. Aglom: 1.00\nMenor Caminho Medio: 69.54\nBetweness: 0.000000\nCloseness: 0.0144\nsem nome
+1146,Coef. Aglom: 0.33\nMenor Caminho Medio: 79.95\nBetweness: 21006.000000\nCloseness: 0.0125\nRio Carangola
+1147,Coef. Aglom: 0.33\nMenor Caminho Medio: 49.22\nBetweness: 256500.000000\nCloseness: 0.0203\nRio Paraba do Sul
+1148,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.20\nBetweness: 0.000000\nCloseness: 0.0181\nsem nome
+1149,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.21\nBetweness: 2366.000000\nCloseness: 0.0184\nsem nome
+1150,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.16\nBetweness: 0.000000\nCloseness: 0.0181\nsem nome
+1151,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.20\nBetweness: 0.000000\nCloseness: 0.0181\nsem nome
+1152,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.25\nBetweness: 0.000000\nCloseness: 0.0178\nsem nome
+1153,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.18\nBetweness: 34650.000000\nCloseness: 0.0185\nRio Grande
+1154,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.25\nBetweness: 7074.000000\nCloseness: 0.0178\nRio Negro
+1155,Coef. Aglom: 1.00\nMenor Caminho Medio: 62.37\nBetweness: 0.000000\nCloseness: 0.0160\nsem nome
+1156,Coef. Aglom: 0.33\nMenor Caminho Medio: 52.82\nBetweness: 210056.000000\nCloseness: 0.0189\nRio Paraba do Sul
+1157,Coef. Aglom: 0.33\nMenor Caminho Medio: 61.38\nBetweness: 7074.000000\nCloseness: 0.0163\nsem nome
+1158,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.36\nBetweness: 0.000000\nCloseness: 0.0155\nsem nome
+1159,Coef. Aglom: 0.33\nMenor Caminho Medio: 57.38\nBetweness: 4724.000000\nCloseness: 0.0174\nCrrego da Ona
+1160,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.56\nBetweness: 29000.000000\nCloseness: 0.0183\nRio Paraba do Sul
+1161,Coef. Aglom: 0.33\nMenor Caminho Medio: 56.49\nBetweness: 24444.000000\nCloseness: 0.0177\nRio Paraba do Sul
+1162,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.43\nBetweness: 5900.000000\nCloseness: 0.0171\nRio Paraba do Sul
+1163,Coef. Aglom: 1.00\nMenor Caminho Medio: 59.42\nBetweness: 0.000000\nCloseness: 0.0168\nsem nome
+1164,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.58\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+1165,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.39\nBetweness: 0.000000\nCloseness: 0.0174\nsem nome
+1166,Coef. Aglom: 1.00\nMenor Caminho Medio: 54.32\nBetweness: 0.000000\nCloseness: 0.0184\nsem nome
+1167,Coef. Aglom: 0.33\nMenor Caminho Medio: 63.37\nBetweness: 2366.000000\nCloseness: 0.0158\nsem nome
+1168,Coef. Aglom: 0.33\nMenor Caminho Medio: 55.52\nBetweness: 26726.000000\nCloseness: 0.0180\nRio Paraba do Sul
+1169,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.48\nBetweness: 185814.000000\nCloseness: 0.0187\nRio Muria
+1170,Coef. Aglom: 1.00\nMenor Caminho Medio: 57.47\nBetweness: 0.000000\nCloseness: 0.0174\nsem nome
+1171,Coef. Aglom: 0.33\nMenor Caminho Medio: 53.61\nBetweness: 33524.000000\nCloseness: 0.0187\nRio Paraba do Sul
+1172,Coef. Aglom: 1.00\nMenor Caminho Medio: 56.50\nBetweness: 0.000000\nCloseness: 0.0177\nsem nome
+1173,Coef. Aglom: 0.33\nMenor Caminho Medio: 62.37\nBetweness: 4724.000000\nCloseness: 0.0160\nsem nome
+1174,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.85\nBetweness: 182546.000000\nCloseness: 0.0182\nRio Muria
+1175,Coef. Aglom: 1.00\nMenor Caminho Medio: 63.37\nBetweness: 0.000000\nCloseness: 0.0158\nsem nome
+1176,Coef. Aglom: 1.00\nMenor Caminho Medio: 64.36\nBetweness: 0.000000\nCloseness: 0.0155\nsem nome
+1177,Coef. Aglom: 1.00\nMenor Caminho Medio: 61.38\nBetweness: 0.000000\nCloseness: 0.0163\nsem nome
+1178,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.16\nBetweness: 184184.000000\nCloseness: 0.0185\nRio Muria
+1179,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.70\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+1180,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.41\nBetweness: 11750.000000\nCloseness: 0.0168\nsem nome
+1181,Coef. Aglom: 0.33\nMenor Caminho Medio: 60.39\nBetweness: 9416.000000\nCloseness: 0.0166\nsem nome
+1182,Coef. Aglom: 1.00\nMenor Caminho Medio: 60.40\nBetweness: 0.000000\nCloseness: 0.0166\nsem nome
+1183,Coef. Aglom: 1.00\nMenor Caminho Medio: 55.54\nBetweness: 0.000000\nCloseness: 0.0180\nsem nome
+1184,Coef. Aglom: 0.33\nMenor Caminho Medio: 54.58\nBetweness: 2366.000000\nCloseness: 0.0183\nsem nome
+1185,Coef. Aglom: 0.33\nMenor Caminho Medio: 59.42\nBetweness: 3546.000000\nCloseness: 0.0168\nRio Paraba do Sul
+1186,Coef. Aglom: 0.33\nMenor Caminho Medio: 58.43\nBetweness: 14076.000000\nCloseness: 0.0171\nsem nome
+------
+DADOS
+-----
+1,2
+1,3
+1,11
+1,60
+2,8
+2,9
+2,11
+3,60
+4,5
+4,10
+5,6
+5,10
+5,64
+6,64
+7,9
+7,566
+8,9
+9,566
+12,22
+12,25
+12,29
+12,77
+13,23
+13,27
+13,35
+13,378
+14,15
+14,36
+14,330
+14,340
+15,21
+15,36
+15,339
+16,19
+16,28
+16,75
+16,378
+17,18
+17,30
+18,40
+18,30
+18,33
+19,28
+19,326
+19,365
+20,121
+20,129
+20,227
+20,230
+21,339
+22,38
+22,67
+22,77
+23,35
+24,75
+24,452
+25,26
+25,29
+25,331
+26,52
+26,331
+26,374
+27,350
+27,368
+27,378
+28,78
+28,352
+29,338
+29,356
+30,39
+30,36
+31,66
+31,325
+31,375
+31,377
+32,333
+32,454
+33,40
+34,38
+34,40
+36,39
+37,212
+37,229
+38,40
+38,67
+41,46
+41,48
+41,419
+41,430
+42,49
+42,55
+43,44
+43,49
+44,49
+44,50
+44,52
+45,50
+45,68
+46,47
+46,48
+46,51
+47,51
+47,79
+47,429
+48,53
+48,397
+49,55
+50,52
+50,68
+51,54
+51,486
+52,374
+53,397
+54,486
+55,402
+55,422
+56,58
+56,59
+56,60
+56,63
+57,93
+57,97
+58,63
+58,83
+58,91
+59,60
+61,86
+61,100
+62,127
+62,137
+62,144
+62,154
+64,105
+64,107
+65,463
+65,466
+66,76
+66,377
+66,457
+68,446
+68,473
+69,70
+69,482
+70,482
+71,472
+71,471
+72,74
+72,381
+72,408
+72,479
+73,483
+73,484
+74,479
+75,378
+75,452
+76,457
+78,352
+79,429
+80,81
+80,91
+80,97
+80,99
+81,87
+81,91
+81,133
+82,84
+82,88
+82,94
+82,518
+83,86
+83,91
+83,513
+84,88
+85,89
+85,95
+86,100
+86,513
+87,98
+87,133
+87,188
+88,96
+88,547
+89,95
+89,101
+89,585
+90,94
+90,95
+92,153
+92,188
+93,97
+94,95
+94,518
+96,547
+97,99
+98,188
+100,102
+100,107
+101,106
+101,110
+101,585
+102,107
+103,138
+103,158
+103,223
+103,234
+104,108
+104,109
+105,107
+106,110
+108,109
+108,110
+108,111
+109,571
+109,579
+110,111
+112,121
+112,134
+112,184
+112,198
+113,170
+113,184
+114,160
+114,172
+114,214
+114,216
+115,124
+115,211
+115,232
+115,501
+116,128
+116,207
+117,219
+117,228
+118,190
+118,214
+119,179
+119,492
+119,525
+119,543
+120,123
+120,168
+121,198
+121,230
+122,161
+122,234
+123,126
+123,168
+123,233
+124,196
+124,203
+124,232
+125,164
+125,183
+126,233
+127,146
+127,154
+127,217
+128,207
+129,227
+130,136
+130,156
+130,168
+130,189
+131,175
+131,186
+131,194
+131,211
+132,143
+132,208
+134,138
+134,162
+134,184
+135,166
+135,181
+135,182
+135,195
+136,156
+137,144
+137,218
+137,228
+138,158
+138,162
+139,152
+139,167
+139,526
+139,555
+140,152
+140,199
+141,169
+141,210
+142,183
+142,204
+143,144
+143,208
+143,225
+144,225
+145,509
+145,530
+146,217
+147,148
+147,491
+147,521
+147,549
+148,198
+148,215
+148,521
+149,508
+149,545
+150,155
+150,176
+151,190
+151,197
+151,202
+151,231
+152,167
+152,199
+153,188
+154,165
+154,185
+155,176
+156,176
+156,209
+157,191
+157,224
+159,809
+159,832
+159,828
+159,839
+160,216
+161,234
+163,182
+163,207
+164,183
+164,192
+164,205
+165,185
+166,182
+168,189
+169,209
+169,210
+169,225
+170,184
+171,173
+171,178
+171,221
+171,230
+172,204
+172,214
+172,222
+173,230
+174,206
+174,233
+175,211
+175,522
+175,531
+176,209
+177,180
+177,186
+177,191
+177,212
+178,221
+179,221
+179,519
+179,543
+180,191
+181,195
+182,207
+183,204
+186,194
+186,212
+187,195
+187,232
+190,214
+190,202
+191,224
+192,201
+192,205
+192,218
+193,229
+193,523
+195,232
+196,203
+197,231
+198,215
+200,915
+200,916
+200,922
+200,954
+201,218
+204,222
+206,233
+206,243
+206,308
+209,225
+211,501
+212,229
+213,223
+213,231
+218,228
+219,228
+220,235
+220,238
+221,519
+223,231
+223,234
+226,492
+226,508
+229,523
+235,237
+235,238
+235,334
+236,332
+236,337
+237,334
+239,250
+239,313
+240,252
+240,275
+241,249
+241,276
+241,299
+241,316
+242,270
+242,274
+242,280
+242,284
+243,308
+244,251
+244,272
+244,292
+244,291
+245,265
+245,298
+246,310
+246,302
+246,315
+246,317
+247,248
+247,285
+247,380
+247,391
+248,251
+248,285
+248,287
+249,310
+249,290
+249,276
+250,313
+250,417
+250,440
+251,287
+251,292
+252,258
+252,261
+252,275
+253,269
+253,308
+253,273
+253,278
+254,256
+254,281
+255,299
+255,300
+255,303
+255,305
+256,263
+256,281
+257,261
+257,304
+258,261
+259,262
+259,292
+259,267
+259,312
+260,406
+260,407
+260,283
+260,296
+261,304
+262,292
+263,293
+263,312
+264,291
+265,290
+265,298
+265,311
+266,380
+266,295
+267,312
+268,279
+268,301
+269,308
+270,271
+270,280
+270,286
+271,286
+272,291
+273,278
+274,284
+275,280
+275,303
+276,277
+276,301
+277,282
+277,289
+277,301
+278,304
+278,307
+279,301
+280,303
+282,289
+283,296
+288,296
+288,297
+290,310
+290,311
+293,312
+294,309
+294,306
+295,380
+296,297
+299,305
+299,316
+300,303
+302,309
+302,313
+302,315
+304,307
+306,309
+309,313
+310,317
+314,404
+314,443
+318,355
+318,336
+318,353
+318,369
+319,329
+319,337
+319,357
+319,359
+320,358
+320,360
+321,351
+321,367
+321,373
+321,379
+322,344
+322,373
+323,356
+323,367
+324,342
+324,349
+324,347
+324,369
+325,327
+325,362
+325,375
+326,365
+327,362
+328,335
+328,376
+329,334
+329,337
+329,354
+330,340
+332,337
+333,454
+334,354
+335,341
+335,371
+335,376
+336,369
+338,356
+339,341
+339,363
+341,363
+341,371
+342,357
+342,364
+342,347
+343,370
+343,403
+344,364
+344,366
+344,373
+345,358
+345,379
+346,405
+346,447
+348,353
+348,372
+349,369
+350,368
+351,373
+353,355
+353,372
+356,367
+357,359
+357,364
+358,360
+358,379
+361,401
+361,911
+361,923
+361,935
+364,366
+367,379
+370,403
+380,391
+381,408
+382,386
+382,399
+383,396
+383,448
+384,398
+384,447
+385,420
+385,432
+386,390
+386,392
+386,399
+387,400
+387,404
+387,423
+387,440
+388,434
+388,420
+388,422
+388,441
+389,411
+389,419
+389,424
+389,428
+390,392
+390,409
+390,410
+391,421
+391,433
+393,413
+393,444
+394,409
+394,433
+395,412
+395,427
+395,428
+395,445
+396,448
+398,411
+398,436
+398,447
+399,434
+399,431
+400,423
+401,883
+401,892
+401,911
+402,422
+403,410
+403,413
+404,440
+404,443
+405,416
+405,426
+405,447
+406,407
+406,425
+406,448
+409,410
+409,433
+410,413
+411,424
+411,436
+412,427
+413,444
+414,423
+414,425
+414,426
+414,442
+415,418
+415,427
+416,426
+417,440
+418,427
+419,428
+419,430
+420,434
+420,432
+421,433
+422,441
+423,442
+425,426
+425,448
+428,445
+431,434
+432,435
+432,439
+435,439
+437,637
+437,640
+438,887
+438,890
+438,913
+438,936
+446,473
+449,454
+449,460
+449,461
+449,648
+450,451
+450,464
+451,455
+451,457
+451,464
+452,459
+452,465
+453,458
+453,642
+454,460
+455,457
+456,461
+456,633
+458,642
+459,465
+459,640
+459,648
+461,633
+461,648
+462,464
+462,636
+463,466
+464,636
+466,477
+466,643
+467,475
+467,482
+467,485
+467,661
+468,479
+468,483
+469,475
+469,480
+470,471
+470,484
+470,651
+470,661
+471,472
+471,484
+472,476
+472,486
+473,477
+473,478
+474,480
+474,481
+475,480
+475,482
+476,478
+476,486
+476,654
+477,478
+477,643
+478,654
+479,483
+480,481
+483,484
+485,652
+485,657
+485,661
+487,488
+487,510
+487,523
+487,546
+488,510
+489,516
+489,538
+489,562
+489,567
+490,514
+490,542
+491,549
+492,508
+492,525
+493,502
+493,535
+493,544
+493,550
+494,527
+494,619
+495,514
+495,536
+495,551
+495,559
+496,499
+496,534
+497,503
+497,511
+497,512
+497,554
+498,501
+498,504
+498,515
+498,534
+499,534
+500,515
+500,520
+500,541
+500,552
+501,534
+502,537
+502,544
+502,545
+503,516
+503,520
+503,554
+504,515
+505,526
+505,539
+506,507
+506,540
+507,540
+508,545
+509,530
+511,512
+513,528
+513,555
+514,542
+514,551
+515,541
+516,520
+516,567
+517,539
+517,550
+520,552
+522,531
+523,546
+524,529
+524,549
+526,539
+526,555
+527,619
+528,533
+528,547
+528,555
+529,530
+529,549
+529,553
+530,553
+532,537
+532,548
+533,547
+535,550
+536,559
+537,545
+537,548
+538,540
+538,562
+538,601
+539,550
+540,601
+554,574
+554,618
+556,593
+556,599
+556,602
+556,614
+557,569
+557,620
+558,584
+558,604
+559,581
+559,600
+560,581
+560,597
+560,607
+560,624
+561,591
+561,599
+563,609
+563,610
+564,600
+564,623
+565,602
+565,603
+565,627
+565,628
+568,593
+568,609
+568,616
+568,626
+569,605
+569,620
+569,621
+570,612
+570,619
+570,588
+570,620
+571,572
+571,575
+571,579
+572,575
+572,580
+572,623
+573,598
+573,587
+574,578
+574,586
+574,618
+576,582
+576,629
+577,595
+577,604
+577,611
+577,625
+578,586
+580,623
+581,600
+581,607
+582,591
+582,611
+582,629
+583,895
+583,684
+583,710
+583,722
+584,604
+586,594
+586,617
+587,598
+587,596
+587,630
+588,620
+589,592
+589,594
+589,596
+589,614
+590,592
+590,597
+591,599
+591,611
+592,596
+592,597
+593,602
+593,616
+594,614
+594,617
+595,625
+596,630
+597,624
+599,614
+600,623
+602,627
+603,628
+604,611
+605,621
+606,608
+606,624
+608,624
+609,610
+609,626
+610,621
+610,622
+612,619
+613,615
+613,622
+615,622
+621,622
+631,638
+631,650
+632,642
+632,646
+633,641
+633,644
+634,755
+634,762
+635,650
+635,735
+636,647
+636,754
+637,640
+638,650
+639,725
+639,762
+640,648
+641,644
+641,645
+641,733
+642,646
+643,726
+643,757
+645,733
+646,736
+646,757
+647,754
+649,653
+649,658
+649,741
+649,765
+650,735
+651,661
+651,662
+651,764
+652,657
+653,654
+653,656
+653,765
+654,656
+655,657
+655,660
+657,660
+658,741
+659,662
+659,737
+662,737
+662,764
+663,695
+663,716
+663,817
+663,821
+664,676
+664,816
+665,666
+665,724
+666,684
+666,721
+666,724
+667,794
+667,803
+668,670
+668,983
+668,997
+668,1000
+669,796
+669,797
+669,989
+669,1001
+670,799
+670,976
+670,1000
+671,697
+671,972
+672,801
+672,802
+672,804
+672,981
+673,749
+673,1005
+674,805
+674,1006
+675,678
+675,717
+675,677
+675,882
+676,816
+677,882
+678,717
+679,823
+679,889
+680,820
+680,931
+681,689
+681,824
+682,698
+682,702
+682,822
+682,824
+683,886
+683,930
+684,895
+684,721
+685,686
+685,1154
+686,687
+686,688
+686,1154
+687,688
+687,712
+687,723
+689,824
+690,703
+690,705
+691,696
+691,708
+692,699
+692,701
+693,694
+693,716
+694,704
+694,707
+694,716
+695,716
+696,708
+697,717
+697,972
+697,708
+698,700
+698,702
+698,705
+699,701
+699,718
+699,820
+700,705
+702,719
+702,993
+703,705
+703,709
+703,977
+704,707
+704,797
+704,803
+706,900
+706,907
+706,925
+706,927
+707,715
+707,720
+708,717
+709,799
+709,800
+709,977
+710,722
+710,1008
+710,1013
+711,805
+711,1009
+712,723
+713,749
+713,1006
+714,1008
+714,1016
+715,720
+718,820
+719,993
+725,729
+725,758
+725,762
+726,757
+727,730
+727,756
+728,732
+728,752
+729,731
+729,758
+729,963
+730,756
+731,753
+731,760
+731,963
+732,752
+732,759
+732,860
+733,870
+733,963
+734,854
+734,857
+735,752
+735,754
+736,756
+736,757
+736,761
+737,748
+737,750
+738,746
+738,763
+738,966
+738,967
+739,744
+739,765
+740,741
+740,743
+741,743
+742,745
+742,747
+743,875
+743,968
+744,765
+744,945
+744,965
+745,747
+746,747
+746,751
+746,967
+747,751
+748,1011
+748,750
+748,881
+749,1005
+749,1006
+752,754
+753,760
+755,762
+756,761
+759,860
+763,966
+766,842
+766,806
+767,780
+767,781
+768,1084
+768,1096
+768,1099
+768,1109
+769,1096
+769,775
+769,779
+769,793
+770,1124
+770,786
+771,783
+771,784
+771,807
+771,813
+772,834
+772,971
+773,956
+773,957
+774,787
+774,811
+774,815
+774,826
+775,793
+775,919
+775,958
+776,781
+776,786
+776,948
+776,946
+777,788
+777,789
+777,947
+777,953
+778,785
+778,787
+778,1119
+778,1131
+779,1096
+780,781
+780,951
+780,952
+781,946
+782,812
+783,784
+783,830
+783,841
+785,787
+786,1124
+786,948
+787,826
+788,806
+788,947
+788,955
+789,953
+790,791
+790,792
+790,1150
+790,1153
+791,792
+792,917
+792,960
+794,803
+795,981
+795,999
+796,797
+796,798
+796,988
+797,803
+798,988
+799,800
+799,976
+800,1004
+800,1009
+801,981
+802,804
+805,1006
+805,1009
+806,842
+806,955
+807,812
+807,813
+808,833
+808,842
+808,1140
+808,838
+809,832
+810,959
+810,970
+811,815
+811,949
+811,943
+814,833
+814,827
+816,823
+816,933
+817,821
+818,821
+818,885
+819,822
+819,934
+820,931
+821,885
+822,824
+822,934
+823,889
+823,933
+825,896
+825,941
+827,833
+828,839
+828,1110
+828,1117
+829,838
+829,844
+830,841
+831,841
+831,843
+831,970
+831,1113
+833,1140
+834,840
+834,969
+834,971
+835,1130
+835,1146
+836,837
+836,839
+836,840
+836,1114
+837,840
+838,842
+838,844
+839,1114
+840,969
+841,970
+843,1113
+845,849
+845,860
+845,863
+845,964
+846,851
+846,852
+846,862
+846,870
+847,872
+847,873
+847,982
+847,983
+848,856
+848,861
+849,861
+849,863
+849,987
+850,866
+850,871
+850,998
+850,1003
+851,852
+851,858
+851,986
+852,857
+852,978
+853,858
+853,859
+854,857
+855,980
+855,994
+856,861
+857,978
+858,859
+858,986
+860,964
+861,987
+862,870
+864,868
+864,968
+865,975
+865,987
+866,871
+867,926
+867,931
+867,909
+867,924
+868,968
+869,1014
+869,1017
+869,1019
+869,1020
+870,963
+872,873
+874,878
+874,1015
+875,880
+875,968
+875,997
+876,877
+876,1010
+876,1017
+876,1018
+877,881
+877,966
+877,1018
+878,879
+878,1010
+878,1015
+879,1010
+880,997
+881,1011
+881,966
+882,894
+882,884
+883,885
+883,888
+883,892
+884,894
+884,928
+884,889
+885,888
+886,892
+886,903
+886,930
+887,936
+889,928
+890,913
+891,925
+891,938
+892,903
+893,905
+893,938
+895,896
+895,942
+896,941
+896,942
+897,941
+897,898
+898,941
+899,905
+899,910
+899,912
+899,913
+900,925
+901,902
+901,944
+902,944
+903,950
+903,906
+904,906
+904,914
+905,910
+905,938
+906,950
+906,914
+907,927
+908,929
+908,952
+909,948
+909,924
+909,934
+912,913
+915,928
+915,922
+915,940
+916,954
+917,920
+917,921
+917,960
+918,920
+918,942
+919,958
+920,921
+920,942
+921,961
+921,962
+923,935
+925,938
+926,931
+926,932
+926,939
+927,937
+927,940
+928,940
+929,952
+932,939
+934,948
+937,940
+943,949
+944,954
+944,955
+945,965
+949,950
+949,957
+950,957
+951,952
+954,955
+956,957
+958,1152
+958,1154
+959,970
+961,962
+973,992
+973,994
+974,990
+974,999
+974,978
+974,980
+975,985
+975,984
+975,987
+978,980
+979,998
+979,1001
+980,994
+981,999
+982,983
+983,997
+984,985
+984,995
+984,986
+985,988
+985,991
+986,995
+988,991
+989,1001
+990,999
+992,994
+995,996
+995,1002
+996,1002
+998,1001
+998,1003
+1004,1007
+1004,1009
+1004,1012
+1007,1012
+1008,1013
+1008,1016
+1010,1017
+1014,1017
+1019,1020
+1021,1032
+1021,1042
+1022,1026
+1022,1036
+1022,1038
+1022,1065
+1023,1027
+1023,1031
+1024,1026
+1024,1027
+1024,1050
+1024,1057
+1025,1037
+1025,1049
+1026,1027
+1026,1065
+1027,1031
+1028,1030
+1028,1036
+1028,1174
+1028,1179
+1029,1037
+1029,1156
+1030,1036
+1030,1159
+1030,1165
+1032,1039
+1032,1042
+1032,1159
+1033,1174
+1033,1178
+1034,1050
+1034,1053
+1035,1058
+1035,1062
+1035,1063
+1035,1082
+1036,1038
+1037,1049
+1037,1156
+1039,1159
+1040,1074
+1040,1041
+1041,1074
+1041,1066
+1041,1068
+1043,1164
+1043,1184
+1044,1046
+1044,1047
+1044,1185
+1045,1162
+1045,1185
+1046,1047
+1048,1161
+1048,1162
+1048,1170
+1048,1186
+1049,1069
+1049,1080
+1050,1053
+1050,1057
+1051,1074
+1051,1061
+1051,1063
+1051,1081
+1052,1073
+1052,1070
+1053,1058
+1053,1059
+1054,1064
+1054,1070
+1054,1077
+1054,1102
+1055,1056
+1055,1080
+1056,1067
+1056,1080
+1056,1084
+1058,1059
+1058,1062
+1060,1062
+1060,1076
+1061,1064
+1061,1072
+1061,1081
+1062,1076
+1063,1074
+1063,1082
+1064,1072
+1064,1102
+1066,1068
+1067,1084
+1067,1085
+1067,1147
+1069,1080
+1069,1135
+1069,1138
+1070,1073
+1070,1077
+1071,1073
+1071,1075
+1071,1089
+1071,1107
+1073,1075
+1075,1090
+1075,1095
+1076,1078
+1076,1086
+1078,1086
+1079,1093
+1079,1147
+1081,1104
+1081,1133
+1083,1091
+1083,1100
+1084,1109
+1085,1147
+1087,1098
+1087,1142
+1088,1099
+1088,1115
+1089,1107
+1089,1129
+1089,1143
+1090,1095
+1091,1100
+1091,1132
+1091,1141
+1092,1134
+1092,1140
+1093,1111
+1093,1112
+1093,1147
+1094,1113
+1094,1136
+1095,1139
+1095,1145
+1096,1099
+1097,1127
+1097,1129
+1098,1125
+1098,1126
+1098,1142
+1099,1115
+1101,1106
+1101,1132
+1103,1105
+1103,1118
+1103,1120
+1103,1137
+1104,1133
+1105,1118
+1106,1121
+1106,1134
+1106,1132
+1108,1114
+1108,1130
+1110,1117
+1111,1112
+1111,1116
+1111,1120
+1113,1136
+1114,1130
+1115,1149
+1115,1153
+1116,1120
+1117,1123
+1117,1142
+1118,1124
+1118,1131
+1119,1131
+1120,1137
+1121,1122
+1121,1127
+1121,1134
+1122,1127
+1123,1128
+1123,1141
+1123,1142
+1124,1131
+1125,1126
+1127,1129
+1128,1141
+1129,1143
+1130,1146
+1132,1141
+1134,1140
+1135,1138
+1136,1144
+1136,1146
+1139,1145
+1144,1146
+1148,1151
+1148,1149
+1149,1151
+1149,1153
+1150,1153
+1152,1154
+1155,1157
+1155,1173
+1156,1169
+1156,1171
+1157,1173
+1157,1177
+1157,1181
+1158,1167
+1158,1176
+1159,1165
+1160,1168
+1160,1171
+1160,1183
+1160,1184
+1161,1168
+1161,1170
+1161,1172
+1162,1185
+1162,1186
+1163,1180
+1163,1186
+1164,1184
+1166,1169
+1166,1178
+1167,1173
+1167,1175
+1167,1176
+1168,1172
+1168,1183
+1169,1171
+1169,1178
+1171,1184
+1173,1175
+1174,1178
+1174,1179
+1177,1181
+1180,1181
+1180,1182
+1180,1186
+1181,1182
