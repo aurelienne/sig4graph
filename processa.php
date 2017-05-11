@@ -76,7 +76,7 @@ var_dump($return_var);
 
 $exec = shell_exec($cmd);
 //echo $exec;
-if (!file_exists($saida.'resultado.shp')) {
+if (!file_exists($saida.$filesNames.'.shp')) {
 	echo "<br>Erro no processamento<br>";
 }
 //var_dump($_FILES);
