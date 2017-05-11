@@ -101,7 +101,7 @@ angular.module('myApp').directive('map', function() {
 			$scope.map.addEventListener('mousemove', function(ev) {
 			   lat = Math.round(ev.latlng.lat*1000000)/1000000;
 			   lng = Math.round(ev.latlng.lng*1000000)/1000000;
-			   document.getElementById('labelLatLon').innerHTML = lat + ','+lng;
+			   document.getElementById('labelLatLon').innerHTML = lat + ','+lng + ' | Sig4Graph ';
 			   //console.log(ev);
 			});
 
