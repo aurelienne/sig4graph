@@ -81,5 +81,5 @@ if (!file_exists($saida.$filesNames.'.shp')) {
 }
 //var_dump($_FILES);
 //ob_clean();
-//header('Location: views.html');
+header('Location: index.php');
 //echo file_get_contents('/home/aurelienne/www/leo/nodes.json');
