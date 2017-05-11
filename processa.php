@@ -80,6 +80,6 @@ if (!file_exists($saida.$filesNames.'.shp')) {
 	echo "<br>Erro no processamento<br>";
 }
 //var_dump($_FILES);
-//ob_clean();
+ob_clean();
 header('Location: index.php');
 //echo file_get_contents('/home/aurelienne/www/leo/nodes.json');
