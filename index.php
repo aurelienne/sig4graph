@@ -24,6 +24,7 @@
 						<td><b><?=$arq2?></b></td>
 						<td><a href="view.php?arq=<?=$arq2?>.json" target="_blank">Mapa</a></td>
 						<td><a href="grafo/index.php?acao=verRede&arq=<?=$arq2?>.txt" target="_blank">Grafo</a></td>
+						<td><a href="grafo/index.php?acao=verRede&arq=<?=$arq2?>.zip" target="_blank">Download</a></td>
 					</tr>
 				<?php }	?>
 			</table>
