@@ -1,0 +1,402 @@
+----------
+LABELS
+---------
+1,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.27\nBetweness: 2016.000000\nCloseness: 0.0888\nRio Itajai do Oeste
+2,Coef. Aglom: 0.33\nMenor Caminho Medio: 16.35\nBetweness: 1752.000000\nCloseness: 0.0611\nRio Itajai-mirim
+3,Coef. Aglom: 0.33\nMenor Caminho Medio: 13.85\nBetweness: 1200.000000\nCloseness: 0.0722\nRio Itajai do Oeste
+4,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.57\nBetweness: 0.000000\nCloseness: 0.0796\nRio Perimbo
+5,Coef. Aglom: 0.33\nMenor Caminho Medio: 16.67\nBetweness: 912.000000\nCloseness: 0.0600\nRio Itajai do Sul
+6,Coef. Aglom: 0.33\nMenor Caminho Medio: 16.66\nBetweness: 312.000000\nCloseness: 0.0600\nRio Itajai do Oeste
+7,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.46\nBetweness: 2272.000000\nCloseness: 0.0956\nRio Itajai do Oeste
+8,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.16\nBetweness: 5512.000000\nCloseness: 0.1091\nRio Itajai-acu
+9,Coef. Aglom: 0.33\nMenor Caminho Medio: 13.16\nBetweness: 2760.000000\nCloseness: 0.0760\nRio Itajai-mirim
+10,Coef. Aglom: 0.33\nMenor Caminho Medio: 8.84\nBetweness: 5616.000000\nCloseness: 0.1132\nRio Itajai-acu
+11,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.27\nBetweness: 0.000000\nCloseness: 0.0701\nRio Itajai-acu
+12,Coef. Aglom: 0.33\nMenor Caminho Medio: 13.20\nBetweness: 2520.000000\nCloseness: 0.0757\nRio Itajai do Sul
+13,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.16\nBetweness: 312.000000\nCloseness: 0.1091\nRio Lontras
+14,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.41\nBetweness: 616.000000\nCloseness: 0.0961\nRio dos Indios
+15,Coef. Aglom: 0.33\nMenor Caminho Medio: 12.38\nBetweness: 912.000000\nCloseness: 0.0808\nRio Benedito
+16,Coef. Aglom: 0.33\nMenor Caminho Medio: 15.03\nBetweness: 312.000000\nCloseness: 0.0666\nRio do Meio
+17,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.32\nBetweness: 3432.000000\nCloseness: 0.0969\nRio Itajai do Sul
+18,Coef. Aglom: 0.33\nMenor Caminho Medio: 14.71\nBetweness: 2272.000000\nCloseness: 0.0680\nRio Itajai-mirim
+19,Coef. Aglom: 0.33\nMenor Caminho Medio: 12.41\nBetweness: 2016.000000\nCloseness: 0.0806\nRio Itajai do Norte ou Hercilio
+20,Coef. Aglom: 0.33\nMenor Caminho Medio: 13.32\nBetweness: 616.000000\nCloseness: 0.0751\nRio Benedito
+21,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.06\nBetweness: 2992.000000\nCloseness: 0.0994\nRio Itajai do Norte ou Hercilio
+22,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.24\nBetweness: 616.000000\nCloseness: 0.1082\nRibeirao Neisse
+23,Coef. Aglom: 0.33\nMenor Caminho Medio: 15.70\nBetweness: 616.000000\nCloseness: 0.0637\nRio Itajai do Oeste
+24,Coef. Aglom: 0.33\nMenor Caminho Medio: 14.06\nBetweness: 616.000000\nCloseness: 0.0711\nRio do Meio
+25,Coef. Aglom: 0.33\nMenor Caminho Medio: 8.71\nBetweness: 4032.000000\nCloseness: 0.1148\nRio Itajai do Norte ou Hercilio
+26,Coef. Aglom: 0.33\nMenor Caminho Medio: 15.52\nBetweness: 2016.000000\nCloseness: 0.0644\nRio Itajai-mirim
+27,Coef. Aglom: 1.00\nMenor Caminho Medio: 9.08\nBetweness: 0.000000\nCloseness: 0.1102\nRibeirao Subida
+28,Coef. Aglom: 0.33\nMenor Caminho Medio: 19.01\nBetweness: 912.000000\nCloseness: 0.0526\nRio Itajai-mirim
+29,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.37\nBetweness: 312.000000\nCloseness: 0.0880\nRio dos Indios
+30,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.35\nBetweness: 0.000000\nCloseness: 0.0881\nRio das Pombinhas
+31,Coef. Aglom: 1.00\nMenor Caminho Medio: 15.81\nBetweness: 0.000000\nCloseness: 0.0633\nRio Jararaca
+32,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.04\nBetweness: 0.000000\nCloseness: 0.0712\nRio do Meio
+33,Coef. Aglom: 1.00\nMenor Caminho Medio: 10.20\nBetweness: 0.000000\nCloseness: 0.0980\nRio Vigante
+34,Coef. Aglom: 1.00\nMenor Caminho Medio: 20.92\nBetweness: 0.000000\nCloseness: 0.0478\nRio Santa Luisa
+35,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.52\nBetweness: 0.000000\nCloseness: 0.0689\nRio Luis Alves
+36,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.15\nBetweness: 0.000000\nCloseness: 0.0897\nRio Areia
+37,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.85\nBetweness: 0.000000\nCloseness: 0.0844\nRio Dona Luisa
+38,Coef. Aglom: 1.00\nMenor Caminho Medio: 17.65\nBetweness: 0.000000\nCloseness: 0.0567\nRio do Campo
+39,Coef. Aglom: 1.00\nMenor Caminho Medio: 9.53\nBetweness: 0.000000\nCloseness: 0.1049\nRibeirao Warnow e Rio Warnow Grande
+40,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.52\nBetweness: 0.000000\nCloseness: 0.0689\nRio Novo
+41,Coef. Aglom: 1.00\nMenor Caminho Medio: 10.32\nBetweness: 0.000000\nCloseness: 0.0969\nRio do Testo
+42,Coef. Aglom: 1.00\nMenor Caminho Medio: 15.94\nBetweness: 0.000000\nCloseness: 0.0627\nRio Costa Carvalho
+43,Coef. Aglom: 1.00\nMenor Caminho Medio: 13.34\nBetweness: 0.000000\nCloseness: 0.0750\nRibeirao Liberdade
+44,Coef. Aglom: 1.00\nMenor Caminho Medio: 15.72\nBetweness: 0.000000\nCloseness: 0.0636\nRibeirao do Pocinho
+45,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.19\nBetweness: 0.000000\nCloseness: 0.0894\nRibeirao Jundia
+46,Coef. Aglom: 1.00\nMenor Caminho Medio: 15.27\nBetweness: 0.000000\nCloseness: 0.0655\nRio Benedito
+47,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.35\nBetweness: 0.000000\nCloseness: 0.0809\nRio dos Indios
+48,Coef. Aglom: 0.33\nMenor Caminho Medio: 18.57\nBetweness: 312.000000\nCloseness: 0.0539\nRio Itajai do Sul
+49,Coef. Aglom: 0.33\nMenor Caminho Medio: 17.22\nBetweness: 1480.000000\nCloseness: 0.0581\nRio Itajai-mirim
+50,Coef. Aglom: 0.33\nMenor Caminho Medio: 19.95\nBetweness: 616.000000\nCloseness: 0.0501\nRio Itajai-mirim
+51,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.20\nBetweness: 312.000000\nCloseness: 0.0980\nRibeirao Neisse
+52,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.80\nBetweness: 0.000000\nCloseness: 0.0676\nRibeirao Grande
+53,Coef. Aglom: 1.00\nMenor Caminho Medio: 21.90\nBetweness: 0.000000\nCloseness: 0.0457\nRio Itajai-mirim
+54,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.42\nBetweness: 0.000000\nCloseness: 0.0805\nRio Santa Maria
+55,Coef. Aglom: 1.00\nMenor Caminho Medio: 16.86\nBetweness: 0.000000\nCloseness: 0.0593\nRio Itajai do Norte ou Hercilio
+56,Coef. Aglom: 1.00\nMenor Caminho Medio: 18.15\nBetweness: 0.000000\nCloseness: 0.0551\nRibeirao do Porto Franco
+57,Coef. Aglom: 1.00\nMenor Caminho Medio: 10.22\nBetweness: 0.000000\nCloseness: 0.0979\nRibeirao Primeiro Braco do Ribeirao Neise
+58,Coef. Aglom: 0.33\nMenor Caminho Medio: 8.90\nBetweness: 5800.000000\nCloseness: 0.1124\nRio Itajai-acu
+59,Coef. Aglom: 0.33\nMenor Caminho Medio: 8.54\nBetweness: 5800.000000\nCloseness: 0.1170\nRio Itajai-acu
+60,Coef. Aglom: 0.33\nMenor Caminho Medio: 12.10\nBetweness: 1752.000000\nCloseness: 0.0826\nRio Itajai do Oeste
+61,Coef. Aglom: 0.33\nMenor Caminho Medio: 14.76\nBetweness: 912.000000\nCloseness: 0.0678\nRio Itajai do Oeste
+62,Coef. Aglom: 0.33\nMenor Caminho Medio: 17.80\nBetweness: 312.000000\nCloseness: 0.0562\nRio Iraputa
+63,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.27\nBetweness: 0.000000\nCloseness: 0.0701\nCorrego Guaporuma
+64,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.19\nBetweness: 0.000000\nCloseness: 0.0894\nRibeirao Neisse
+65,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.48\nBetweness: 0.000000\nCloseness: 0.0801\nRio Trombudo
+66,Coef. Aglom: 1.00\nMenor Caminho Medio: 19.97\nBetweness: 0.000000\nCloseness: 0.0501\nRio Naufragio e Ribeirao Herval
+67,Coef. Aglom: 1.00\nMenor Caminho Medio: 13.03\nBetweness: 0.000000\nCloseness: 0.0768\nRio Taio
+68,Coef. Aglom: 1.00\nMenor Caminho Medio: 13.90\nBetweness: 0.000000\nCloseness: 0.0719\nRibeirao Pequeno
+69,Coef. Aglom: 1.00\nMenor Caminho Medio: 17.65\nBetweness: 0.000000\nCloseness: 0.0567\nRio Itajai do Oeste
+70,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.94\nBetweness: 0.000000\nCloseness: 0.0669\nRio Alto Rio Engano
+71,Coef. Aglom: 1.00\nMenor Caminho Medio: 17.63\nBetweness: 0.000000\nCloseness: 0.0567\nRio Aguas Frias
+72,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.35\nBetweness: 0.000000\nCloseness: 0.0809\nRibeirao da Onca
+73,Coef. Aglom: 1.00\nMenor Caminho Medio: 17.81\nBetweness: 0.000000\nCloseness: 0.0561\nCorrego Carijo
+74,Coef. Aglom: 0.33\nMenor Caminho Medio: 14.01\nBetweness: 1752.000000\nCloseness: 0.0714\nRio Itajai do Sul
+75,Coef. Aglom: 0.33\nMenor Caminho Medio: 8.49\nBetweness: 6072.000000\nCloseness: 0.1177\nRio Itajai-acu
+76,Coef. Aglom: 0.33\nMenor Caminho Medio: 16.84\nBetweness: 616.000000\nCloseness: 0.0594\nRio Iraputa
+77,Coef. Aglom: 0.33\nMenor Caminho Medio: 12.44\nBetweness: 3216.000000\nCloseness: 0.0804\nRio Itajai-acu
+78,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.78\nBetweness: 3840.000000\nCloseness: 0.0849\nRio Itajai-acu
+79,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.00\nBetweness: 3216.000000\nCloseness: 0.0909\nRio Itajai do Sul
+80,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.61\nBetweness: 4392.000000\nCloseness: 0.0943\nRio Itajai-acu
+81,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.58\nBetweness: 1480.000000\nCloseness: 0.0945\nRio Benedito
+82,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.29\nBetweness: 0.000000\nCloseness: 0.0700\nRibeirao Capivari
+83,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.35\nBetweness: 3216.000000\nCloseness: 0.1069\nRio Itajai do Norte ou Hercilio
+84,Coef. Aglom: 0.33\nMenor Caminho Medio: 15.76\nBetweness: 1200.000000\nCloseness: 0.0635\nRio Itajai do Sul
+85,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.47\nBetweness: 912.000000\nCloseness: 0.1056\nRio Krauel
+86,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.63\nBetweness: 312.000000\nCloseness: 0.0940\nRio dos Cedros
+87,Coef. Aglom: 1.00\nMenor Caminho Medio: 13.32\nBetweness: 0.000000\nCloseness: 0.0751\nRio Figueiredo
+88,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.62\nBetweness: 0.000000\nCloseness: 0.0861\nRio Palmeiras
+89,Coef. Aglom: 1.00\nMenor Caminho Medio: 18.58\nBetweness: 0.000000\nCloseness: 0.0538\nRio Caete
+90,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.48\nBetweness: 0.000000\nCloseness: 0.0801\nRibeirao Braco do Trombudo
+91,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.62\nBetweness: 0.000000\nCloseness: 0.0861\nRio dos Cedros
+92,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.90\nBetweness: 0.000000\nCloseness: 0.0840\nNone
+93,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.49\nBetweness: 0.000000\nCloseness: 0.0800\nRio Denek
+94,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.70\nBetweness: 0.000000\nCloseness: 0.0855\nRio Plate
+95,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.91\nBetweness: 312.000000\nCloseness: 0.0916\nRibeirao Dollman
+96,Coef. Aglom: 1.00\nMenor Caminho Medio: 19.56\nBetweness: 0.000000\nCloseness: 0.0511\nRio Itajai do Sul
+97,Coef. Aglom: 1.00\nMenor Caminho Medio: 16.43\nBetweness: 0.000000\nCloseness: 0.0609\nRio Guabiruba do Norte
+98,Coef. Aglom: 1.00\nMenor Caminho Medio: 19.56\nBetweness: 0.000000\nCloseness: 0.0511\nRio das Furnas
+99,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.52\nBetweness: 0.000000\nCloseness: 0.0868\nRibeirao Rodeio Doze
+100,Coef. Aglom: 0.33\nMenor Caminho Medio: 14.28\nBetweness: 312.000000\nCloseness: 0.0700\nRio Benedito
+101,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.35\nBetweness: 0.000000\nCloseness: 0.0809\nNone
+102,Coef. Aglom: 0.33\nMenor Caminho Medio: 12.57\nBetweness: 616.000000\nCloseness: 0.0796\nRio Luis Alves
+103,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.18\nBetweness: 5712.000000\nCloseness: 0.1090\nRio Itajai-acu
+104,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.08\nBetweness: 4560.000000\nCloseness: 0.0992\nRio Itajai-acu
+105,Coef. Aglom: 1.00\nMenor Caminho Medio: 16.71\nBetweness: 0.000000\nCloseness: 0.0598\nArroio Lomba Alta
+106,Coef. Aglom: 1.00\nMenor Caminho Medio: 18.78\nBetweness: 0.000000\nCloseness: 0.0532\nRio Iraputa
+107,Coef. Aglom: 1.00\nMenor Caminho Medio: 16.01\nBetweness: 0.000000\nCloseness: 0.0625\nRio do Meio
+108,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.18\nBetweness: 0.000000\nCloseness: 0.0821\nRibeirao Toca Grande
+109,Coef. Aglom: 1.00\nMenor Caminho Medio: 10.84\nBetweness: 0.000000\nCloseness: 0.0923\nRio Itoupava do Norte
+110,Coef. Aglom: 1.00\nMenor Caminho Medio: 10.15\nBetweness: 0.000000\nCloseness: 0.0985\nRibeirao Concordia
+111,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.51\nBetweness: 0.000000\nCloseness: 0.0869\nRibeirao Mosquito
+112,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.81\nBetweness: 0.000000\nCloseness: 0.0675\nRio Brilhante
+113,Coef. Aglom: 1.00\nMenor Caminho Medio: 19.05\nBetweness: 0.000000\nCloseness: 0.0525\nRibeirao do Ouro
+114,Coef. Aglom: 1.00\nMenor Caminho Medio: 10.48\nBetweness: 0.000000\nCloseness: 0.0954\nRibeirao Aurora
+115,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.49\nBetweness: 312.000000\nCloseness: 0.0870\nRio Itajai-acu
+116,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.71\nBetweness: 2992.000000\nCloseness: 0.0854\nRio Itajai do Sul
+117,Coef. Aglom: 1.00\nMenor Caminho Medio: 14.16\nBetweness: 0.000000\nCloseness: 0.0706\nRio do Bispo
+118,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.90\nBetweness: 0.000000\nCloseness: 0.0840\nRibeirao Dollman
+119,Coef. Aglom: 1.00\nMenor Caminho Medio: 10.15\nBetweness: 0.000000\nCloseness: 0.0985\nRibeirao Dona Paula
+120,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.37\nBetweness: 312.000000\nCloseness: 0.0880\nRio Garcia
+121,Coef. Aglom: 0.33\nMenor Caminho Medio: 20.91\nBetweness: 312.000000\nCloseness: 0.0478\nRio Itajai-mirim
+122,Coef. Aglom: 0.33\nMenor Caminho Medio: 12.96\nBetweness: 1480.000000\nCloseness: 0.0771\nRio Itajai do Oeste
+123,Coef. Aglom: 0.33\nMenor Caminho Medio: 14.10\nBetweness: 1480.000000\nCloseness: 0.0709\nRio Itajai do Norte ou Hercilio
+124,Coef. Aglom: 0.33\nMenor Caminho Medio: 18.10\nBetweness: 1200.000000\nCloseness: 0.0552\nRio Itajai-mirim
+125,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.81\nBetweness: 2520.000000\nCloseness: 0.0925\nRio Itajai do Norte ou Hercilio
+126,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.66\nBetweness: 3640.000000\nCloseness: 0.1035\nRio Itajai do Sul
+127,Coef. Aglom: 0.33\nMenor Caminho Medio: 13.28\nBetweness: 312.000000\nCloseness: 0.0753\nRio Itajai-acu
+128,Coef. Aglom: 1.00\nMenor Caminho Medio: 16.01\nBetweness: 0.000000\nCloseness: 0.0625\nRio do Tanque
+129,Coef. Aglom: 1.00\nMenor Caminho Medio: 10.43\nBetweness: 0.000000\nCloseness: 0.0959\nRio Krauel
+130,Coef. Aglom: 1.00\nMenor Caminho Medio: 15.04\nBetweness: 0.000000\nCloseness: 0.0665\nArroio Xaxim
+131,Coef. Aglom: 1.00\nMenor Caminho Medio: 15.61\nBetweness: 0.000000\nCloseness: 0.0641\nRio da Limeira
+132,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.97\nBetweness: 0.000000\nCloseness: 0.0835\nRibeirao do Arraial
+133,Coef. Aglom: 1.00\nMenor Caminho Medio: 17.28\nBetweness: 0.000000\nCloseness: 0.0579\nRio das Aguas Claras
+134,Coef. Aglom: 0.33\nMenor Caminho Medio: 10.53\nBetweness: 616.000000\nCloseness: 0.0950\nRio Itajai-acu
+135,Coef. Aglom: 0.33\nMenor Caminho Medio: 13.92\nBetweness: 2520.000000\nCloseness: 0.0718\nRio Itajai-mirim
+136,Coef. Aglom: 0.33\nMenor Caminho Medio: 14.99\nBetweness: 1200.000000\nCloseness: 0.0667\nRio Itajai do Norte ou Hercilio
+137,Coef. Aglom: 1.00\nMenor Caminho Medio: 18.78\nBetweness: 0.000000\nCloseness: 0.0532\nRio Bonito
+138,Coef. Aglom: 1.00\nMenor Caminho Medio: 16.67\nBetweness: 0.000000\nCloseness: 0.0600\nRio do Rauen ou do Corisco
+139,Coef. Aglom: 1.00\nMenor Caminho Medio: 15.27\nBetweness: 0.000000\nCloseness: 0.0655\nRio Forcacao
+140,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.59\nBetweness: 2272.000000\nCloseness: 0.0862\nRio Itajai do Norte ou Hercilio
+141,Coef. Aglom: 0.33\nMenor Caminho Medio: 13.24\nBetweness: 1752.000000\nCloseness: 0.0755\nRio Itajai do Norte ou Hercilio
+142,Coef. Aglom: 0.33\nMenor Caminho Medio: 13.53\nBetweness: 312.000000\nCloseness: 0.0739\nRio Luis Alves
+143,Coef. Aglom: 1.00\nMenor Caminho Medio: 13.32\nBetweness: 0.000000\nCloseness: 0.0751\nRio Prata
+144,Coef. Aglom: 1.00\nMenor Caminho Medio: 9.49\nBetweness: 0.000000\nCloseness: 0.1053\nRio das Cobras
+145,Coef. Aglom: 0.33\nMenor Caminho Medio: 14.87\nBetweness: 1480.000000\nCloseness: 0.0672\nRio Itajai do Sul
+146,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.47\nBetweness: 1200.000000\nCloseness: 0.0872\nRio Benedito
+147,Coef. Aglom: 0.33\nMenor Caminho Medio: 15.90\nBetweness: 912.000000\nCloseness: 0.0629\nRio Itajai do Norte ou Hercilio
+148,Coef. Aglom: 1.00\nMenor Caminho Medio: 12.35\nBetweness: 0.000000\nCloseness: 0.0809\nRio Garcia
+149,Coef. Aglom: 1.00\nMenor Caminho Medio: 13.54\nBetweness: 0.000000\nCloseness: 0.0738\nRibeirao Braco do Bau
+150,Coef. Aglom: 0.33\nMenor Caminho Medio: 17.61\nBetweness: 616.000000\nCloseness: 0.0568\nRio Itajai do Sul
+151,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.70\nBetweness: 2992.000000\nCloseness: 0.1031\nRio Itajai-acu
+152,Coef. Aglom: 0.33\nMenor Caminho Medio: 12.44\nBetweness: 2760.000000\nCloseness: 0.0804\nRio Itajai do Sul
+153,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.73\nBetweness: 2016.000000\nCloseness: 0.1027\nRio Benedito
+154,Coef. Aglom: 0.33\nMenor Caminho Medio: 11.18\nBetweness: 4032.000000\nCloseness: 0.0895\nRio Itajai-acu
+155,Coef. Aglom: 0.33\nMenor Caminho Medio: 9.57\nBetweness: 4720.000000\nCloseness: 0.1045\nRio Itajai-acu
+156,Coef. Aglom: 0.33\nMenor Caminho Medio: 8.67\nBetweness: 6016.000000\nCloseness: 0.1153\nRio Itajai-acu
+157,Coef. Aglom: 1.00\nMenor Caminho Medio: 11.38\nBetweness: 0.000000\nCloseness: 0.0879\nRibeirao do Ferro
+158,Coef. Aglom: 1.00\nMenor Caminho Medio: 15.04\nBetweness: 0.000000\nCloseness: 0.0665\nRio Taiozinho
+159,Coef. Aglom: 1.00\nMenor Caminho Medio: 21.90\nBetweness: 0.000000\nCloseness: 0.0457\nRio Garrafao
+------
+DADOS
+-----
+1,7
+1,30
+1,60
+1,108
+2,26
+2,49
+2,97
+2,133
+3,52
+3,61
+3,68
+3,122
+4,116
+4,152
+5,71
+5,84
+5,105
+5,150
+6,23
+6,38
+6,69
+6,138
+7,30
+7,134
+7,151
+8,10
+8,126
+8,144
+8,151
+9,32
+9,77
+9,127
+9,135
+10,13
+10,59
+10,144
+11,63
+11,127
+12,24
+12,74
+12,87
+12,152
+13,59
+13,110
+13,119
+14,29
+14,85
+14,129
+14,157
+15,20
+15,43
+15,54
+15,146
+16,24
+16,107
+16,128
+16,130
+17,36
+17,79
+17,114
+17,126
+18,26
+18,112
+18,131
+18,135
+19,93
+19,140
+19,141
+19,143
+20,43
+20,82
+20,100
+21,33
+21,83
+21,95
+21,125
+22,58
+22,51
+22,57
+22,156
+23,44
+23,61
+23,138
+24,74
+24,130
+25,59
+25,75
+25,83
+25,85
+26,97
+26,131
+27,75
+27,156
+28,50
+28,66
+28,113
+28,124
+29,47
+29,72
+29,157
+31,84
+31,145
+32,135
+33,83
+34,50
+34,121
+35,40
+35,142
+36,79
+37,79
+37,116
+38,69
+39,58
+39,103
+40,142
+41,104
+41,155
+42,136
+42,147
+44,61
+45,51
+45,64
+46,100
+46,139
+47,72
+48,89
+48,96
+48,98
+48,150
+49,56
+49,124
+49,133
+50,66
+50,121
+51,57
+51,64
+52,61
+53,159
+53,121
+54,146
+55,76
+55,147
+56,124
+58,103
+58,156
+59,75
+60,67
+60,108
+60,122
+62,73
+62,76
+62,106
+62,137
+63,127
+65,90
+65,115
+67,122
+68,122
+70,74
+70,145
+71,150
+73,76
+74,145
+75,156
+76,147
+77,78
+77,102
+77,127
+78,102
+78,132
+78,154
+79,116
+80,104
+80,109
+80,120
+80,154
+81,86
+81,99
+81,146
+81,153
+82,100
+83,85
+84,105
+84,145
+85,129
+86,88
+86,91
+86,153
+87,152
+88,91
+89,150
+90,115
+92,95
+92,118
+93,140
+94,125
+94,140
+95,118
+95,125
+96,98
+99,146
+100,139
+101,120
+101,148
+102,142
+102,149
+103,153
+103,155
+104,109
+104,155
+106,137
+107,128
+110,119
+111,115
+111,134
+112,135
+113,124
+114,126
+115,134
+116,152
+117,123
+117,141
+120,148
+120,154
+121,159
+123,136
+123,141
+123,158
+125,140
+126,151
+132,154
+134,151
+136,147
+136,158
+141,143
+142,149
+153,155

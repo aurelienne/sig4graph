@@ -1,7 +1,7 @@
 <html ng-app='myApp'>
 	<head>
 		<meta charset='UTF-8'/>
-		<title>Aurê</title>
+		<title>Sig4Graph</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/map.css">
 		<!-- <link rel="stylesheet" type="text/css" href="assets/css/leaflet.control.orderlayers.css"> -->
 
@@ -12,6 +12,22 @@
 	</head>
 	<body ng-controller="MapController as mapCtrl">
 		<div class="container">
+			<h1><img src="img/logo.png"> Sig4Graph</h1>
+			<hr>
+			<table class="table alert alert-success">
+				<?php
+				chdir('out/');
+				$arquivos = glob("{*.txt}", GLOB_BRACE);
+				foreach ($arquivos as $arq) {
+					$arq2 = basename($arq,'.txt');
+					?><tr>
+						<td><b><?=$arq2?></b></td>
+						<td><a href="view.php?arq=<?=$arq2?>.json" target="_blank">Mapa</a></td>
+						<td><a href="grafo/index.php?acao=verRede&arq=<?=$arq2?>.txt" target="_blank">Grafo</a></td>
+					</tr>
+				<?php }	?>
+			</table>
+			<hr>
 			<form  enctype="multipart/form-data" action="processa.php" method="POST">
 				<div class="form-group">
 					<label for="dbf">DBF</label>
