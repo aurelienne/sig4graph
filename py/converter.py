@@ -58,7 +58,7 @@ class Database:
         cur = self.conn.cursor()
         cur.execute('alter table s2g_nodes add column grau smallint')
         cur.execute('alter table s2g_nodes add column coef_aglom numeric(6,2)')
-        cur.execute('alter table s2g_nodes add column mencamed numeric(6,2)')
+        cur.execute('alter table s2g_nodes add column character varying')
         cur.execute('alter table s2g_nodes add column betweeness numeric(14,6)')
         cur.execute('alter table s2g_nodes add column closeness numeric(6,4)')
         cur.close()
@@ -205,9 +205,9 @@ class Database:
 
     def export_prop_json(self, gid):
         cur = self.conn.cursor()
-        cols = ('gid', 'grau', 'coef_aglom', 'mencamed', 'betweeness', 'closeness', 'strahler')
+        cols = ('gid', 'grau', 'coef_aglom', 'mencamed', 'betweeness', 'closeness')
         results = []
-        cur.execute('select gid, grau, coef_aglom, mencamed, betweeness, closeness, strahler from s2g_nodes where gid = %s', (gid,))
+        cur.execute('select gid, grau, coef_aglom, mencamed, betweeness, closeness from s2g_nodes where gid = %s', (gid,))
         result = cur.fetchone()
         results.append(dict(zip(cols, result)))
         jsondata = simplejson.dumps(results,use_decimal=True)
@@ -316,7 +316,7 @@ class Grafo:
         plt.hist(self.grafo.degree())
         plt.title("Histograma")
         plt.xlabel("Grau")
-        plt.ylabel("Vértices")
+        plt.ylabel("Vertices")
         fig = plt.gcf()
         fig.set_size_inches(2.6, 2.2)
         fig.savefig(os.path.join(out_path,fnameout+'_hist.png'))
